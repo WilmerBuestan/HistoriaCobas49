@@ -2,7 +2,7 @@
   "name": "cuestionario-guerras",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/WilmerBuestan/HistoriaCobas49",
+"homepage": "https://WilmerBuestan.github.io/HistoriaCobas49",
 
 
   "dependencies": {
@@ -20,15 +20,14 @@
     "string-similarity": "^4.0.4",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
