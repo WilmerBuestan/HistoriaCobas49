@@ -1,11 +1,202 @@
 [
-    {
-      "pregunta": "¿En qué año comenzó la Guerra de Vietnam?",
-      "respuesta": "1955"
-    },
-    {
-      "pregunta": "¿Qué país apoyó a Vietnam del Norte?",
-      "respuesta": "Unión Soviética"
-    }
-  ]
-  
+  {
+    "pregunta": "¿Cuántos kilómetros cuadrados perdió Ecuador por tratados y protocolos?",
+    "respuesta": "600 mil"
+  },
+  {
+    "pregunta": "¿En qué año se firmó el Protocolo de Río de Janeiro?",
+    "respuesta": "1942"
+  },
+  {
+    "pregunta": "¿Cuál fue el error geográfico esencial del Protocolo de Río de Janeiro?",
+    "respuesta": "Existencia del río Cenepa en el punto limítrofe"
+  },
+  {
+    "pregunta": "¿Desde qué año estuvo presente el ejército ecuatoriano en el Valle del Cenepa?",
+    "respuesta": "1979"
+  },
+  {
+    "pregunta": "¿Qué destacamento se estableció en 1979 para sustentar logísticamente otros?",
+    "respuesta": "Coangos"
+  },
+  {
+    "pregunta": "¿Cuáles eran los destacamentos sustentados por Coangos?",
+    "respuesta": "Tiwintza, Base Sur y Cueva de los Tayos"
+  },
+  {
+    "pregunta": "¿Qué puesto de vigilancia estableció Perú en 1987?",
+    "respuesta": "Soldado Pastor"
+  },
+  {
+    "pregunta": "¿Cuándo se intensificaron los encuentros entre patrullas peruanas y ecuatorianas?",
+    "respuesta": "Septiembre de 1994"
+  },
+  {
+    "pregunta": "¿Qué agrupamiento creó Ecuador en diciembre de 1994?",
+    "respuesta": "General Iturralde"
+  },
+  {
+    "pregunta": "¿Qué alerta se declaró en diciembre de 1994?",
+    "respuesta": "Alerta amarilla"
+  },
+  {
+    "pregunta": "¿En qué mes y año se refuerzan los destacamentos fronterizos?",
+    "respuesta": "Enero de 1995"
+  },
+  {
+    "pregunta": "¿Cuándo fue el primer enfrentamiento armado en el sector de la Y?",
+    "respuesta": "11 de enero"
+  },
+  {
+    "pregunta": "¿Qué construyó Perú el 23 de enero que provocó respuesta de Ecuador?",
+    "respuesta": "Un helipuerto"
+  },
+  {
+    "pregunta": "¿Quién era el comandante de la 21BS que advirtió a Perú?",
+    "respuesta": "Coronel José Grijalba"
+  },
+  {
+    "pregunta": "¿A qué comandante peruano advirtió el Coronel Grijalba?",
+    "respuesta": "General López Trigoso"
+  },
+  {
+    "pregunta": "¿Qué alerta se activó el 24 de enero?",
+    "respuesta": "Alerta azul"
+  },
+  {
+    "pregunta": "¿Dónde se intensificaron los enfrentamientos el 26 de enero?",
+    "respuesta": "Base Norte"
+  },
+  {
+    "pregunta": "¿Qué alerta se emitió el 26 de enero?",
+    "respuesta": "Alerta roja"
+  },
+  {
+    "pregunta": "¿Qué decretó el Presidente Sixto Durán el 27 de enero?",
+    "respuesta": "Estado de emergencia"
+  },
+  {
+    "pregunta": "¿Qué destacamentos fueron bombardeados el 28 de enero?",
+    "respuesta": "Tnte Ortiz y Sldo Monje"
+  },
+  {
+    "pregunta": "¿Qué organización intervino el 28 de enero?",
+    "respuesta": "OEA"
+  },
+  {
+    "pregunta": "¿Cuántos helicópteros perdió Perú el 29 de enero?",
+    "respuesta": "2"
+  },
+  {
+    "pregunta": "¿Dónde perdió Perú un helicóptero el 29 de enero?",
+    "respuesta": "Tnte Ortíz y Cueva de los Tayos"
+  },
+  {
+    "pregunta": "¿Quién fue el primer caído ecuatoriano y cuándo?",
+    "respuesta": "Soldado Pico, 30 de enero"
+  },
+  {
+    "pregunta": "¿Qué declaró Ecuador el 31 de enero?",
+    "respuesta": "Alto al fuego unilateral"
+  },
+  {
+    "pregunta": "¿Qué papel jugaron la aviación ecuatoriana y las fuerzas especiales en febrero?",
+    "respuesta": "Papel crucial en los combates"
+  },
+  {
+    "pregunta": "¿Dónde se realizaron negociaciones en febrero sin llegar a un acuerdo satisfactorio?",
+    "respuesta": "Río de Janeiro"
+  },
+  {
+    "pregunta": "¿Cuánto aportó la población a las FFAA el 5 de febrero?",
+    "respuesta": "4 mil millones de sucres"
+  },
+  {
+    "pregunta": "¿Qué agrupamiento se creó el 6 de febrero?",
+    "respuesta": "Carlomagno Andrade"
+  },
+  {
+    "pregunta": "¿Qué tipo de misil derribó un helicóptero peruano el 7 de febrero?",
+    "respuesta": "Misil Igla"
+  },
+  {
+    "pregunta": "¿Cuántos helicópteros peruanos fueron derribados entre el 7 y 9 de febrero?",
+    "respuesta": "1"
+  },
+  {
+    "pregunta": "¿Qué fuerza ecuatoriana derribó 3 aviones peruanos el 10 de febrero?",
+    "respuesta": "Aviación ecuatoriana"
+  },
+  {
+    "pregunta": "¿Qué brigada se organizó el 13 de febrero?",
+    "respuesta": "Brigada especial Eloy Alfaro"
+  },
+  {
+    "pregunta": "¿Qué anunció Fujimori el 13 de febrero?",
+    "respuesta": "Alto al fuego unilateral"
+  },
+  {
+    "pregunta": "¿Qué se verificó con GPS el 15 de febrero?",
+    "respuesta": "Las posiciones a la prensa internacional"
+  },
+  {
+    "pregunta": "¿Qué firmó Perú el 17 de febrero?",
+    "respuesta": "Acuerdo de paz"
+  },
+  {
+    "pregunta": "¿Qué posibilidad abrió el acuerdo firmado por Perú el 17 de febrero?",
+    "respuesta": "Envío de observadores militares"
+  },
+  {
+    "pregunta": "¿Qué destruyó Ecuador el 17 de febrero?",
+    "respuesta": "Un helicóptero peruano"
+  },
+  {
+    "pregunta": "¿Qué misión llegó el 22 de febrero a la zona del conflicto?",
+    "respuesta": "Misión de observadores militares"
+  },
+  {
+    "pregunta": "¿Qué teniente falleció el 22 de febrero?",
+    "respuesta": "Teniente Calle"
+  },
+  {
+    "pregunta": "¿Quién inculpó a Perú el 25 de febrero?",
+    "respuesta": "General Pinochet"
+  },
+  {
+    "pregunta": "¿Cuántos caídos tuvo Ecuador?",
+    "respuesta": "31"
+  },
+  {
+    "pregunta": "¿Cuántos heridos tuvo Ecuador?",
+    "respuesta": "Más de 70"
+  },
+  {
+    "pregunta": "¿Cuándo cayó otro helicóptero peruano después de febrero?",
+    "respuesta": "2 de marzo"
+  },
+  {
+    "pregunta": "¿Cómo se llamó la marcha en homenaje a las FFAA el 6 de marzo?",
+    "respuesta": "Por la Patria y la Unidad Nacional"
+  },
+  {
+    "pregunta": "¿Cuántos militares de países garantes llegaron el 12 de marzo?",
+    "respuesta": "32"
+  },
+  {
+    "pregunta": "¿Cuál fue la misión de los 32 militares de países garantes?",
+    "respuesta": "Iniciar trabajos de separación de fuerzas y paz"
+  },
+  {
+    "pregunta": "¿Cuándo se retiró el primer contingente ecuatoriano de la zona del conflicto?",
+    "respuesta": "1 de abril"
+  },
+  {
+    "pregunta": "¿A qué acuerdo obedeció el retiro del 1 de abril?",
+    "respuesta": "Acuerdos de Itamaratí"
+  },
+  {
+    "pregunta": "¿Cuántos aviones y helicópteros perdió Perú?",
+    "respuesta": "3 aviones y 9 helicópteros"
+  }
+]
