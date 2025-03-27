@@ -1,11 +1,198 @@
 [
-    {
-      "pregunta": "¿En qué año comenzó la Guerra de Vietnam?",
-      "respuesta": "1955"
-    },
-    {
-      "pregunta": "¿Qué país apoyó a Vietnam del Norte?",
-      "respuesta": "Unión Soviética"
-    }
-  ]
-  
+  {
+    "pregunta": "¿Entre qué años ocurrió la Guerra de Vietnam?",
+    "respuesta": "1955-1975"
+  },
+  {
+    "pregunta": "¿Quién lideraba Vietnam del Norte durante la guerra?",
+    "respuesta": "Ho Chi Minh"
+  },
+  {
+    "pregunta": "¿Qué ideología representaba Vietnam del Norte?",
+    "respuesta": "Comunista"
+  },
+  {
+    "pregunta": "¿Qué país apoyó a Vietnam del Sur?",
+    "respuesta": "Estados Unidos"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo estuvo Vietnam bajo dominio chino?",
+    "respuesta": "Casi mil años"
+  },
+  {
+    "pregunta": "¿Entre qué años duró la colonización francesa en Vietnam?",
+    "respuesta": "1862 - 1954"
+  },
+  {
+    "pregunta": "¿Qué movimiento comunista lideró la independencia de Vietnam?",
+    "respuesta": "Viet Minh"
+  },
+  {
+    "pregunta": "¿En qué año fue el enfrentamiento entre franceses y Viet Minh en Haiphong?",
+    "respuesta": "1946"
+  },
+  {
+    "pregunta": "¿En qué años se desarrolló la Guerra Fría?",
+    "respuesta": "1947 - 1991"
+  },
+  {
+    "pregunta": "¿Qué año tomó el poder Mao Zedong en China?",
+    "respuesta": "1949"
+  },
+  {
+    "pregunta": "¿Cuándo ocurrió la Primera Guerra de Indochina?",
+    "respuesta": "1946 - 1954"
+  },
+  {
+    "pregunta": "¿Cuál fue la batalla decisiva que marcó la derrota francesa en Vietnam?",
+    "respuesta": "Batalla de Dien Bien Phu"
+  },
+  {
+    "pregunta": "¿Qué acuerdos dividieron Vietnam en dos partes?",
+    "respuesta": "Acuerdos de Ginebra"
+  },
+  {
+    "pregunta": "¿En qué paralelo se dividió Vietnam tras los acuerdos?",
+    "respuesta": "Paralelo 17"
+  },
+  {
+    "pregunta": "¿En qué año comenzó EE.UU. a apoyar a Francia contra el comunismo en Vietnam?",
+    "respuesta": "1950"
+  },
+  {
+    "pregunta": "¿Qué país apoyó a Corea del Norte en la Guerra de Corea en 1950?",
+    "respuesta": "URSS"
+  },
+  {
+    "pregunta": "¿Cómo se llamaba el movimiento guerrillero apoyado por Vietnam del Norte?",
+    "respuesta": "Viet Cong"
+  },
+  {
+    "pregunta": "¿En qué año se conformó el Viet Cong?",
+    "respuesta": "1960"
+  },
+  {
+    "pregunta": "¿Qué teoría sostiene que quien domine Europa del Este dominará el mundo?",
+    "respuesta": "Teoría del Heartland"
+  },
+  {
+    "pregunta": "¿Qué teoría sostiene que quien controle el perímetro del Heartland controlará el mundo?",
+    "respuesta": "Teoría del Rimland"
+  },
+  {
+    "pregunta": "¿En qué mes y año ocurrió el Incidente del Golfo de Tonkin?",
+    "respuesta": "Agosto de 1964"
+  },
+  {
+    "pregunta": "¿Qué barco estadounidense fue atacado en el Golfo de Tonkin?",
+    "respuesta": "USS Maddox"
+  },
+  {
+    "pregunta": "¿En qué año llegaron tropas de EE.UU. a Vietnam del Sur?",
+    "respuesta": "1965"
+  },
+  {
+    "pregunta": "¿Qué países apoyaron a Vietnam del Sur junto con EE.UU.?",
+    "respuesta": "Camboya, Laos, Australia, Corea del Sur, Filipinas, Nueva Zelanda, Tailandia, Taiwán"
+  },
+  {
+    "pregunta": "¿Qué ocurrió en 1965 además del envío de tropas de EE.UU.?",
+    "respuesta": "Bombardeo al FLN y explosión de la embajada de EE.UU."
+  },
+  {
+    "pregunta": "¿Cómo se llama la ofensiva lanzada en 1968 por Vietnam del Norte y el Viet Cong?",
+    "respuesta": "Ofensiva del Tet"
+  },
+  {
+    "pregunta": "¿Qué efecto tuvo la Ofensiva del Tet en EE.UU.?",
+    "respuesta": "Debilitó el apoyo estadounidense a la guerra"
+  },
+  {
+    "pregunta": "¿Quién implementó la vietnamización?",
+    "respuesta": "Richard Nixon"
+  },
+  {
+    "pregunta": "¿En qué año se implementó la vietnamización?",
+    "respuesta": "1969"
+  },
+  {
+    "pregunta": "¿Qué significó la vietnamización?",
+    "respuesta": "Transferencia del conflicto a Vietnam del Sur"
+  },
+  {
+    "pregunta": "¿Qué bombardeos ordenó Nixon en 1972?",
+    "respuesta": "Linebacker y Linebacker II"
+  },
+  {
+    "pregunta": "¿Qué ocurrió en 1973 entre EE.UU. y la ONU?",
+    "respuesta": "Firma de un alto al fuego"
+  },
+  {
+    "pregunta": "¿Cuándo cayó Saigón?",
+    "respuesta": "1975"
+  },
+  {
+    "pregunta": "¿Qué significó la caída de Saigón?",
+    "respuesta": "Victoria de Vietnam del Norte y reunificación"
+  },
+  {
+    "pregunta": "¿Cómo se llamó el país tras la victoria comunista?",
+    "respuesta": "República Socialista de Vietnam"
+  },
+  {
+    "pregunta": "¿Cuántos civiles murieron en la guerra?",
+    "respuesta": "2 millones"
+  },
+  {
+    "pregunta": "¿Cuántos soldados perdió Vietnam del Sur?",
+    "respuesta": "350,000"
+  },
+  {
+    "pregunta": "¿Cuántos soldados tuvo Vietnam del Norte?",
+    "respuesta": "Entre 750,000 y 1 millón"
+  },
+  {
+    "pregunta": "¿Cuántos soldados estadounidenses murieron?",
+    "respuesta": "58,000"
+  },
+  {
+    "pregunta": "¿Qué ideología promovía Ho Chi Minh?",
+    "respuesta": "Libertad, Igualdad y Fraternidad"
+  },
+  {
+    "pregunta": "¿En qué año fundó Ho Chi Minh el Viet Minh?",
+    "respuesta": "1930"
+  },
+  {
+    "pregunta": "¿Qué proclamó Ho Chi Minh en 1945?",
+    "respuesta": "Creación del estado independiente de Vietnam"
+  },
+  {
+    "pregunta": "¿Quién fue el presidente autoritario de Vietnam del Sur?",
+    "respuesta": "Ngô Đình Diệm"
+  },
+  {
+    "pregunta": "¿Qué presidente estadounidense escaló la guerra?",
+    "respuesta": "Lyndon B. Johnson"
+  },
+  {
+    "pregunta": "¿Qué presidente estadounidense comenzó la retirada?",
+    "respuesta": "Richard Nixon"
+  },
+  {
+    "pregunta": "¿Qué países del sudeste asiático participaron en apoyo a Vietnam del Sur?",
+    "respuesta": "Tailandia, Filipinas, Camboya, Laos"
+  },
+  {
+    "pregunta": "¿Qué evento de 1964 justificó la intervención militar de EE.UU.?",
+    "respuesta": "Incidente del Golfo de Tonkin"
+  },
+  {
+    "pregunta": "¿Qué grupo usó tácticas de guerrilla contra Vietnam del Sur?",
+    "respuesta": "Viet Cong"
+  },
+  {
+    "pregunta": "¿Qué objetivo tenía la intervención de EE.UU. en Vietnam?",
+    "respuesta": "Contener la expansión del comunismo"
+  }
+]
