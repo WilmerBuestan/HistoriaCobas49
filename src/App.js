@@ -32,7 +32,7 @@ export default function App() {
         ? "malvinas.json"
         : "dih.json";
 
-      fetch(`/data/${nombreArchivo}`)
+        fetch(process.env.PUBLIC_URL + `/data/${nombreArchivo}`)
         .then(res => res.json())
         .then(data => {
           setPreguntas(data);
