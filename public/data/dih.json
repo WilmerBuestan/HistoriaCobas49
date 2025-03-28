@@ -1,0 +1,336 @@
+[
+    {
+      "pregunta": "¿Cuántos Convenios de Ginebra han sido promulgados?",
+      "respuesta": "4"
+    },
+    {
+      "pregunta": "¿Qué protege el primer Convenio de Ginebra?",
+      "respuesta": "Heridos y enfermos de las fuerzas armadas en campaña"
+    },
+    {
+      "pregunta": "¿Qué protege el segundo Convenio de Ginebra?",
+      "respuesta": "Heridos, enfermos y náufragos de las fuerzas armadas en el mar"
+    },
+    {
+      "pregunta": "¿Qué protege el tercer Convenio de Ginebra?",
+      "respuesta": "Prisioneros de guerra"
+    },
+    {
+      "pregunta": "¿Qué protege el cuarto Convenio de Ginebra?",
+      "respuesta": "Personas civiles en tiempo de guerra"
+    },
+    {
+      "pregunta": "¿Cuántos Protocolos Adicionales han sido promulgados a los Convenios de Ginebra?",
+      "respuesta": "3"
+    },
+    {
+      "pregunta": "El Protocolo Adicional I protege a las víctimas de conflictos armados ________.",
+      "respuesta": "internacionales"
+    },
+    {
+      "pregunta": "El Protocolo Adicional II protege a las víctimas de conflictos armados ________.",
+      "respuesta": "no internacionales"
+    },
+    {
+      "pregunta": "El Protocolo Adicional III introdujo el emblema del ________.",
+      "respuesta": "Cristal Rojo"
+    },
+    {
+      "pregunta": "¿Qué tratado prohíbe el uso de minas antipersonales?",
+      "respuesta": "Convención de Ottawa"
+    },
+    {
+      "pregunta": "¿Qué convención protege los bienes culturales?",
+      "respuesta": "Convención de La Haya de 1954"
+    },
+    {
+      "pregunta": "¿En qué batalla se inspiró Henry Dunant para crear la Cruz Roja?",
+      "respuesta": "Batalla de Solferino"
+    },
+    {
+      "pregunta": "¿Qué institución redacta el Derecho Internacional Humanitario?",
+      "respuesta": "Comité Internacional de la Cruz Roja"
+    },
+    {
+      "pregunta": "El objetivo principal del DIH es proteger a las personas que no participan o han dejado de participar en ________.",
+      "respuesta": "las hostilidades"
+    },
+    {
+      "pregunta": "Verdadero o Falso: El DIH se aplica también en disturbios internos y tensiones internas.",
+      "respuesta": "Falso"
+    },
+    {
+      "pregunta": "El Artículo 3 común a los cuatro Convenios de Ginebra aplica a conflictos ________.",
+      "respuesta": "no internacionales"
+    },
+    {
+      "pregunta": "Verdadero o Falso: El personal sanitario militar puede abandonar a los heridos si su vida está en peligro.",
+      "respuesta": "Falso"
+    },
+    {
+      "pregunta": "El periodista en zona de combate es considerado una persona ________.",
+      "respuesta": "protegida"
+    },
+    {
+      "pregunta": "Verdadero o Falso: Los signos distintivos como la Cruz Roja pueden usarse como estratagema en combate.",
+      "respuesta": "Falso"
+    },
+    {
+      "pregunta": "La alerta amarilla indica que no existe amenaza de hostilidades o que es ________ un ataque.",
+      "respuesta": "improbable"
+    },
+    {
+      "pregunta": "Verdadero o Falso: Durante la alerta azul se requiere autorización para atacar.",
+      "respuesta": "Falso"
+    },
+    {
+      "pregunta": "La alerta roja se emite cuando la amenaza es ________.",
+      "respuesta": "inminente"
+    },
+    {
+      "pregunta": "Los paracaidistas deben tener la posibilidad de ________ antes de ser atacados.",
+      "respuesta": "rendirse"
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con un enemigo herido al ser capturado?",
+      "respuesta": "Respetar su vida, desarmarlo, tratarlo humanamente y entregarlo al superior"
+    },
+    {
+      "pregunta": "Completa: El DIH prohíbe usar a los bienes protegidos como ________.",
+      "respuesta": "escudos"
+    },
+        {
+          "pregunta": "¿Qué tratado de 1935 protege instituciones artísticas y científicas y monumentos históricos?",
+          "respuesta": "Pacto Roerich"
+        },
+        {
+          "pregunta": "¿Qué tipo de conflicto ocurre entre el gobierno de un Estado y un grupo armado dentro del mismo territorio?",
+          "respuesta": "Conflicto armado no internacional"
+        },
+        {
+          "pregunta": "¿Qué tipo de conflicto implica la intervención de fuerzas armadas extranjeras a favor de cada parte?",
+          "respuesta": "Conflicto armado interno internacionalizado"
+        },
+        {
+          "pregunta": "Verdadero o Falso: El DIH se aplica desde el inicio del conflicto hasta el fin de la ocupación.",
+          "respuesta": "Verdadero"
+        },
+        {
+          "pregunta": "El principio de ______ exige diferenciar entre combatientes y civiles.",
+          "respuesta": "Distinción"
+        },
+        {
+          "pregunta": "El principio de ______ exige evitar daños innecesarios o sufrimiento superfluo.",
+          "respuesta": "Limitación"
+        },
+        {
+          "pregunta": "El principio de ______ exige que el daño colateral sea proporcional a la ventaja militar.",
+          "respuesta": "Proporcionalidad"
+        },
+        {
+          "pregunta": "El principio de ______ permite el uso de la fuerza sólo cuando es necesario obtener una ventaja militar clara.",
+          "respuesta": "Necesidad militar"
+        },
+        {
+          "pregunta": "Verdadero o Falso: Los civiles pierden protección si participan directamente en las hostilidades.",
+          "respuesta": "Verdadero"
+        },
+        {
+          "pregunta": "¿Qué zona protegida es un lugar que se abre a la ocupación sin ofrecer resistencia?",
+          "respuesta": "Localidad no defendida"
+        },
+        {
+          "pregunta": "¿Qué zona está excluida de operaciones militares por acuerdo de las partes?",
+          "respuesta": "Zona desmilitarizada"
+        },
+        {
+          "pregunta": "¿Qué zonas están dedicadas únicamente a brindar atención médica?",
+          "respuesta": "Zonas sanitarias"
+        },
+        {
+          "pregunta": "¿Qué tipo de zona se crea dentro de una zona de combate y excluye hostilidades por acuerdo?",
+          "respuesta": "Zona neutralizada"
+        },
+        {
+          "pregunta": "¿Qué tipo de persona participa en hostilidades sin ser combatiente legítimo?",
+          "respuesta": "Combatiente ilegítimo"
+        },
+        {
+          "pregunta": "Los _______ se unen por lucro a un conflicto sin tener nacionalidad del país beligerante.",
+          "respuesta": "mercenarios"
+        },
+        {
+          "pregunta": "Verdadero o Falso: Los francotiradores independientes gozan de estatuto de combatiente.",
+          "respuesta": "Falso"
+        },
+        {
+          "pregunta": "¿Qué personas no reciben protección ni como civiles ni como prisioneros de guerra?",
+          "respuesta": "Personas sin estatus de protección"
+        },
+        {
+          "pregunta": "¿Qué organización creó el Estatuto de Roma de 1998?",
+          "respuesta": "Corte Penal Internacional"
+        },
+        {
+          "pregunta": "Verdadero o Falso: El uso del hambre como método de guerra está prohibido.",
+          "respuesta": "Verdadero"
+        },
+        {
+          "pregunta": "Verdadero o Falso: La guerra psicológica es considerada una estratagema lícita.",
+          "respuesta": "Verdadero"
+        },
+        {
+          "pregunta": "¿Qué tipo de actos hostiles se realizan usando signos protegidos como engaño?",
+          "respuesta": "Perfidia"
+        },
+        {
+          "pregunta": "¿Qué principio impide el uso de armas que causen daño excesivo al medio ambiente?",
+          "respuesta": "Limitación"
+        },
+        {
+          "pregunta": "Completa: En toda operación se deben tomar ______ necesarias para evitar daños a civiles.",
+          "respuesta": "precauciones"
+        },
+        {
+          "pregunta": "Verdadero o Falso: Se puede usar el emblema de Naciones Unidas para camuflaje militar.",
+          "respuesta": "Falso"
+        },
+        {
+          "pregunta": "¿Qué se debe hacer con las víctimas encontradas en zona de combate según el DIH?",
+          "respuesta": "Buscar y asistir con personal sanitario"
+        },      
+
+            {
+              "pregunta": "¿Qué se debe hacer con los combatientes enemigos heridos?",
+              "respuesta": "Respetarlos, brindarles atención médica y no abandonarlos"
+            },
+            {
+              "pregunta": "¿Qué se debe hacer con los náufragos enemigos bajo nuestro control?",
+              "respuesta": "Brindar asistencia, respetar su vida y protegerlos"
+            },
+            {
+              "pregunta": "Verdadero o Falso: Los combatientes enemigos capturados pueden ser interrogados bajo presión.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "Completa: Ante la duda de si un objetivo es militar, se presume que ________.",
+              "respuesta": "no lo es"
+            },
+            {
+              "pregunta": "¿Cuál es el procedimiento al capturar a un enemigo?",
+              "respuesta": "Respetar su vida, desarmarlo, tratarlo humanamente, entregarlo al superior"
+            },
+            {
+              "pregunta": "¿Qué protección tienen los periodistas en zonas de combate?",
+              "respuesta": "Son considerados personas protegidas"
+            },
+            {
+              "pregunta": "Verdadero o Falso: Se puede disparar a un paracaidista militar aún en el aire.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "¿Qué función cumple el Comité Internacional de la Cruz Roja en el DIH?",
+              "respuesta": "Promoción y desarrollo del DIH"
+            },
+            {
+              "pregunta": "¿Qué significa 'derecho positivo' en el contexto del DIH?",
+              "respuesta": "Normas escritas adoptadas formalmente por los Estados"
+            },
+            {
+              "pregunta": "¿Cuál es la finalidad principal del DIH?",
+              "respuesta": "Proteger a las personas que no participan o han dejado de participar en hostilidades"
+            },
+            {
+              "pregunta": "Verdadero o Falso: El DIH busca dar ventaja militar a una de las partes.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "¿Qué convención regula los conflictos armados en el mar?",
+              "respuesta": "Manual de San Remo"
+            },
+            {
+              "pregunta": "Verdadero o Falso: El personal civil puede ser blanco de ataques si está en zona de combate.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "¿Qué deben respetar los combatientes respecto a la propiedad privada?",
+              "respuesta": "No robar ni tomar como rehenes a los civiles"
+            },
+            {
+              "pregunta": "¿Qué debe hacerse si se encuentran bienes culturales durante una operación?",
+              "respuesta": "Respetarlos y no atacarlos"
+            },
+            {
+              "pregunta": "¿Cuál es el principio que limita el uso de armas excesivamente nocivas?",
+              "respuesta": "Limitación"
+            },
+            {
+              "pregunta": "Verdadero o Falso: Las minas antipersonales están permitidas bajo ciertas condiciones.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "¿Qué significa el término 'conflicto armado internacional' según el DIH?",
+              "respuesta": "Confrontación entre dos o más Estados con fuerzas armadas"
+            },
+            {
+              "pregunta": "¿Qué principio obliga a dar aviso oportuno antes de un ataque con posible daño colateral?",
+              "respuesta": "Precaución"
+            },
+            {
+              "pregunta": "Verdadero o Falso: Las armas químicas están prohibidas por el DIH.",
+              "respuesta": "Verdadero"
+            },
+            {
+              "pregunta": "¿Qué se prohíbe hacer con los bienes indispensables para la supervivencia de la población?",
+              "respuesta": "Atacarlos o destruirlos"
+            },
+            {
+              "pregunta": "¿Qué significa que un medio o método de guerra cause 'daños superfluos'?",
+              "respuesta": "Produce sufrimiento innecesario sin justificación militar"
+            },
+            {
+              "pregunta": "¿Qué debe hacer un combatiente con las pertenencias de un prisionero de guerra?",
+              "respuesta": "Respetarlas y entregarlas con el prisionero"
+            },
+            {
+              "pregunta": "Verdadero o Falso: El uso de armas nucleares en zonas densamente pobladas está permitido.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "¿Qué se debe evitar en ataques dentro de áreas con alta presencia civil?",
+              "respuesta": "Usar armas indiscriminadas o causar daño colateral excesivo"
+            },
+            {
+              "pregunta": "¿Qué organización propuso el primer Convenio de Ginebra?",
+              "respuesta": "CICR"
+            },
+            {
+              "pregunta": "Verdadero o Falso: El uso del emblema de la Cruz Roja sin autorización es un acto indebido.",
+              "respuesta": "Verdadero"
+            },
+            {
+              "pregunta": "¿Qué se entiende por 'zonas neutralizadas' en el DIH?",
+              "respuesta": "Áreas dentro del combate donde se acuerda no realizar hostilidades"
+            },
+            {
+              "pregunta": "¿Qué debe garantizar un comandante sobre el comportamiento de su unidad?",
+              "respuesta": "Una acción y comportamiento uniforme en cumplimiento del DIH"
+            },
+            {
+              "pregunta": "¿Qué principios deben guiar la instrucción en tiempo de paz?",
+              "respuesta": "Realismo, continuidad, teoría-práctica, conocimiento del DIH"
+            },
+            {
+              "pregunta": "Verdadero o Falso: Un combatiente puede usar una ambulancia para trasladar armas.",
+              "respuesta": "Falso"
+            },
+            {
+              "pregunta": "Completa: El DIH protege tanto a combatientes como a ________.",
+              "respuesta": "no combatientes"
+            },
+            {
+              "pregunta": "¿Qué instrumento de 1868 prohíbe ciertos proyectiles explosivos?",
+              "respuesta": "Declaración de San Petersburgo"
+            }
+          ]
+          
