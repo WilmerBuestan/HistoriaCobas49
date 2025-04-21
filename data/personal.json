@@ -98,6 +98,86 @@
     {
       "pregunta": "¿Cómo se garantiza el respeto a los Derechos Humanos dentro de la administración de personal?",
       "respuesta": "Capacitación continua, aplicación de normativas internacionales, monitoreo de conductas, y cumplimiento de principios del DIH en operaciones militares."
-    }
-  ]
-  
+    },
+      {
+        "pregunta": "Explique el rol de la Plana Mayor Especial dentro de un Puesto de Mando y cómo apoya al Comandante en el proceso de toma de decisiones.",
+        "respuesta": "La Plana Mayor Especial proporciona asesoría técnica especializada al Comandante en áreas clave como logística, inteligencia, comunicaciones, asuntos civiles, jurídico militar, entre otros. Su función es convertir información especializada en recomendaciones tácticas concretas para facilitar decisiones oportunas."
+      },
+      {
+        "pregunta": "Mencione las secciones que integran comúnmente la Plana Mayor Especial y la función principal de cada una.",
+        "respuesta": "Comúnmente incluye: Logística (abastecimiento, mantenimiento, transporte), Comunicaciones (redes, equipos, enlaces), Inteligencia Técnica, Jurídico Militar (legalidad de operaciones), Relaciones Civiles-Militares, y Guerra Electrónica. Cada una actúa como asesor técnico del comandante en su campo."
+      },
+      {
+        "pregunta": "Diferencie las funciones de la Plana Mayor Especial respecto a la Plana Mayor Coordinadora.",
+        "respuesta": "La Plana Mayor Coordinadora planifica y coordina la operación en conjunto con el comandante; mientras que la Plana Mayor Especial se enfoca en brindar información técnica precisa sobre recursos, capacidades o restricciones en su especialidad."
+      },
+      {
+        "pregunta": "Explique la importancia de la sección de Comunicaciones dentro de la Plana Mayor Especial durante una operación ofensiva.",
+        "respuesta": "Garantiza el flujo ininterrumpido de la información entre escalones, la interoperabilidad entre unidades, y mantiene la seguridad de las comunicaciones. Es fundamental para ejecutar acciones sincronizadas y controlar el campo de batalla."
+      },
+      {
+        "pregunta": "¿Cuál es la responsabilidad del asesor jurídico militar en el contexto del Derecho Internacional Humanitario y las ROE?",
+        "respuesta": "Asesora al Comandante sobre la legalidad de las acciones tácticas, el uso proporcional de la fuerza, el trato a prisioneros, blancos legítimos y el cumplimiento de las ROE. Además, evalúa los riesgos legales de cada operación."
+      },
+      {
+        "pregunta": "Describa cómo la sección de logística dentro de la Plana Mayor Especial contribuye al sostenimiento operacional.",
+        "respuesta": "Planifica y supervisa el abastecimiento de víveres, municiones, combustibles, mantenimiento de equipos, evacuación de bajas y transporte. Su trabajo asegura la continuidad del esfuerzo de combate."
+      },
+      {
+        "pregunta": "¿Qué implica la sincronización entre la Plana Mayor Especial y la Coordinadora durante la fase de planificación?",
+        "respuesta": "Implica el cruce de información, validación de capacidades reales, anticipación de limitaciones logísticas o legales, y elaboración de anexos técnicos al plan de operaciones. Todo esto debe integrarse al BOP del comandante."
+      },
+      {
+        "pregunta": "¿Cuál es la importancia de la sección de Guerra Electrónica dentro de una operación militar moderna?",
+        "respuesta": "Neutraliza o explota sistemas electrónicos enemigos (comunicaciones, radares, drones), mientras protege las propias. Su uso estratégico afecta directamente el mando y control del adversario."
+      },
+      {
+        "pregunta": "Explique cómo el Oficial de Comunicaciones dentro de la Plana Mayor Especial asegura el enlace y la redundancia en el campo de batalla.",
+        "respuesta": "Diseña la red de comunicaciones primaria y secundaria, asigna frecuencias seguras, prevé fallas con planes alternos (satélite, HF), y garantiza el soporte técnico de equipos críticos durante toda la operación."
+      },
+      {
+        "pregunta": "¿Cómo apoya la sección de asuntos civiles-militares (CIMIC) a la operación en zonas pobladas?",
+        "respuesta": "Actúa como enlace con autoridades locales, coordina ayuda humanitaria, evita conflictos con la población civil y gestiona el impacto social de las operaciones militares, reforzando la legitimidad de la fuerza."
+      },
+      {
+        "pregunta": "Explique cómo la Plana Mayor Especial participa en la elaboración de la orden fragmentaria (FRAGO).",
+        "respuesta": "Cada sección aporta anexos técnicos, recomendaciones específicas, y limitaciones operativas en su campo. La información se integra a la FRAGO para mantener actualizada la conducción con datos técnicos reales."
+      },
+      {
+        "pregunta": "Describa cómo interactúa el Oficial de Logística con el Oficial de Operaciones durante una operación prolongada.",
+        "respuesta": "El Oficial de Logística informa sobre capacidades reales, estado de recursos, y tiempos logísticos. Esto condiciona la maniobra y permite al Oficial de Operaciones adaptar el plan con base en sostenibilidad."
+      },
+      {
+        "pregunta": "¿Por qué es fundamental el asesoramiento jurídico en operaciones en frontera o zonas grises?",
+        "respuesta": "Porque delimita las acciones permitidas según el tipo de conflicto (internacional o no internacional), previene incidentes diplomáticos y asegura el cumplimiento del DIH y normativa nacional."
+      },
+      {
+        "pregunta": "Mencione tres productos doctrinarios que elabora la Plana Mayor Especial durante una operación.",
+        "respuesta": "1) Anexos técnicos (comunicaciones, logística, ROE). 2) Informes de situación técnica. 3) Recomendaciones específicas en el planeamiento y evaluación post-misión."
+      },
+      {
+        "pregunta": "¿Qué medidas debe considerar el Oficial de Comunicaciones en una operación bajo interferencia enemiga?",
+        "respuesta": "Aplicar salto de frecuencia, redundancia de medios (cableado, satélite, HF), uso de cifrado y coordinación estrecha con guerra electrónica para detectar e inhibir señales enemigas."
+      },
+      {
+        "pregunta": "Explique el aporte de la Plana Mayor Especial en la elaboración del Análisis de Misión.",
+        "respuesta": "Provee las limitaciones, restricciones técnicas, tiempos logísticos, capacidades electrónicas y legales del entorno. Todo esto permite definir medios adecuados y realistas para cumplir la misión."
+      },
+      {
+        "pregunta": "¿Cómo coordina la Plana Mayor Especial la evacuación sanitaria en una operación de combate?",
+        "respuesta": "A través del Oficial Logístico y el sistema MEDEVAC, se definen rutas seguras, disponibilidad de medios (ambulancias, helicópteros), y puntos de estabilización, coordinando con el Oficial de Personal y el escalón superior."
+      },
+      {
+        "pregunta": "Describa cómo se integran las recomendaciones de la Plana Mayor Especial en la decisión final del Comandante.",
+        "respuesta": "Cada sección proporciona alternativas técnicas y riesgos. El Comandante analiza esa información como elementos de juicio para tomar una decisión operativa informada y precisa."
+      },
+      {
+        "pregunta": "¿Cuál es el rol del Oficial de Inteligencia Electrónica dentro de la Plana Mayor Especial?",
+        "respuesta": "Detecta, intercepta y analiza señales electrónicas enemigas para identificar capacidades, vulnerabilidades y patrones de comportamiento. Coordina con guerra electrónica y comunicaciones para aplicar contramedidas."
+      },
+      {
+        "pregunta": "Explique cómo la Plana Mayor Especial contribuye al Proceso Militar de Toma de Decisiones (PMTD).",
+        "respuesta": "Participa en la estimación de situación, análisis de medios disponibles, definición de limitaciones técnicas, y elaboración de cursos de acción viables, ajustados a capacidades reales de sostenimiento y cumplimiento legal."
+      }
+    ]
+    
