@@ -1,0 +1,103 @@
+[
+    {
+      "pregunta": "Explique la diferencia entre clasificación, asignación, reclasificación y reasignación del personal militar, y brinde un ejemplo práctico de cada caso.",
+      "respuesta": "La clasificación ubica al personal según sus habilidades. La asignación coloca al personal en un puesto específico. La reclasificación cambia la especialidad de un militar. La reasignación lo mueve por motivos administrativos. Ejemplo: un soldado que cambia de operador de mortero a conductor por sus capacidades, es reclasificado."
+    },
+    {
+      "pregunta": "¿Qué medidas debe tomar un oficial de personal ante la pérdida de personal por causas no relacionadas al combate?",
+      "respuesta": "Debe notificar al escalón superior, registrar la pérdida en el parte diario, clasificarla correctamente (no de combate), activar el sistema de reemplazos y coordinar el bienestar del resto del personal afectado."
+    },
+    {
+      "pregunta": "¿Qué información se incluye en el párrafo de personal dentro del numeral 4 de una orden de operaciones?",
+      "respuesta": "Incluye pérdidas previstas, reemplazos, moral, disciplina, servicios de bienestar, registro de sepulturas y aspectos administrativos generales sobre el personal involucrado en la operación."
+    },
+    {
+      "pregunta": "¿Cuáles son los principios del manejo de personal según el manual MCE 4.01?",
+      "respuesta": "Colocar al individuo en el trabajo adecuado, mejorar habilidades mediante capacitación, estimular la superación, asegurar el desarrollo técnico-profesional y utilizar sus capacidades en funciones esenciales."
+    },
+    {
+      "pregunta": "Describa el procedimiento de identificación y registro de cadáveres en el campo de operaciones.",
+      "respuesta": "Se identifican mediante placas, pertenencias, documentos. Se registran en los formatos 14 y 15. Se deben respetar los DD.HH., coordinar la recolección en puntos designados y reportar al escalón superior."
+    },
+    {
+      "pregunta": "¿Qué funciones tiene la Sección de Moral y Servicio de Personal?",
+      "respuesta": "Evaluar la moral, coordinar permisos, asegurar servicios como comida, recreación, religión y bienestar general del personal militar."
+    },
+    {
+      "pregunta": "Explique cómo se debe actuar ante un caso de herida autoprovocada por accidente en el uso del armamento.",
+      "respuesta": "Debe registrarse como pérdida no de combate, investigar los hechos, coordinar atención médica, iniciar medidas correctivas, y tomar acciones preventivas sobre instrucción de manejo de armas."
+    },
+    {
+      "pregunta": "¿Qué es un rezagado y qué acciones debe tomar el oficial de personal ante un caso de este tipo?",
+      "respuesta": "Un rezagado es personal fuera de su unidad sin autorización. El oficial debe iniciar la búsqueda, registrar el hecho, notificar a los superiores y coordinar su reincorporación o sanción según el caso."
+    },
+    {
+      "pregunta": "¿Qué tipo de pérdidas existen y cómo se clasifican doctrinariamente?",
+      "respuesta": "Pérdidas de combate, no de combate y administrativas. Se clasifican según la causa del hecho (en combate, accidente, enfermedad, ausencias, etc.)."
+    },
+    {
+      "pregunta": "¿Qué son los procedimientos de personal y cuáles son sus componentes?",
+      "respuesta": "Son acciones administrativas como clasificación, asignación, reclasificación, reasignación, ascensos, y control del recurso humano. Se aplican para mantener el orden y eficiencia de la unidad."
+    },
+    {
+      "pregunta": "¿Qué indicadores se utilizan para evaluar la moral del personal?",
+      "respuesta": "Eficiencia para el combate, higiene personal, presentación, rancho, servicios básicos, disciplina y nivel de satisfacción general del personal."
+    },
+    {
+      "pregunta": "¿Cuál es la misión principal del oficial de personal?",
+      "respuesta": "Asesorar al comandante sobre todo lo relacionado con el recurso humano, coordinar su administración, moral, disciplina y bienestar, y mantener actualizados los registros."
+    },
+    {
+      "pregunta": "¿Qué diferencia existe entre el manejo de personal y la administración de personal?",
+      "respuesta": "Administración es el enfoque técnico y organizativo del personal. Manejo es la aplicación de esa administración con criterio humano para el bienestar y eficiencia del recurso."
+    },
+    {
+      "pregunta": "¿Qué responsabilidades tiene el oficial de personal ante prisioneros de guerra?",
+      "respuesta": "Registro, clasificación, cumplimiento del DIH, coordinación con escalones superiores, y respeto a los derechos humanos y tratados internacionales."
+    },
+    {
+      "pregunta": "¿Cuál es la función de la Sección de Derechos Humanos dentro del departamento de personal?",
+      "respuesta": "Supervisar el cumplimiento de normas jurídicas, realizar seguimiento de casos, asesorar en temas de DD.HH. y DIH, y coordinar la capacitación correspondiente."
+    },
+    {
+      "pregunta": "¿Qué son las fuentes de reemplazo en una operación y cómo se gestionan?",
+      "respuesta": "Provienen de la zona de comunicaciones y de la zona de operaciones. Se gestionan mediante el destacamento o unidad de reemplazos bajo coordinación del oficial de personal."
+    },
+    {
+      "pregunta": "¿Qué se entiende por moral en el contexto militar y cómo se mantiene?",
+      "respuesta": "Es el estado anímico del personal. Se mantiene mediante liderazgo, servicios adecuados, estímulos, justicia, descanso, comunicación y ambiente organizacional saludable."
+    },
+    {
+      "pregunta": "¿Cuáles son los documentos principales del departamento de personal?",
+      "respuesta": "Parte diario de personal, registros de pérdidas, informe de moral, registro de reemplazos, anexo de personal a las órdenes de operaciones, y hojas de trabajo administrativas."
+    },
+    {
+      "pregunta": "¿Cómo se realiza la planificación del personal en el nivel de batallón?",
+      "respuesta": "Se toma en cuenta la misión, situación táctica, estimación de pérdidas, necesidad de reemplazos, moral y servicios. Se elabora el anexo correspondiente y se coordina con escalones superiores."
+    },
+    {
+      "pregunta": "¿Qué medidas se deben aplicar para prevenir heridas autoinfligidas?",
+      "respuesta": "Capacitación sobre seguridad de armas, atención psicológica preventiva, supervisión de mando directo, y evaluación constante del estado emocional del personal."
+    },
+    {
+      "pregunta": "¿Qué es una unidad de reemplazos y cuál es su misión?",
+      "respuesta": "Es una unidad operativa encargada de organizar y administrar el ingreso de personal que reemplaza a los efectivos perdidos en combate o por otras causas. Su misión es mantener la operatividad de la unidad."
+    },
+    {
+      "pregunta": "Explique cómo actúa el oficial de personal ante una ausencia sin permiso.",
+      "respuesta": "Debe registrar la falta, iniciar la búsqueda, informar al comandante, y clasificar si se trata de abandono, rezago o desertor. Se aplican medidas disciplinarias según el caso."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre personal civil y prisionero de guerra en el contexto de la función de personal?",
+      "respuesta": "El personal civil no pertenece a la estructura militar y se usa en funciones que no requieren destreza militar. El prisionero de guerra es combatiente enemigo capturado en operaciones."
+    },
+    {
+      "pregunta": "¿Qué aspectos incluye el manejo del interior dentro de la función de personal?",
+      "respuesta": "Organización del puesto de mando, servicios internos, ubicación del personal, distribución de instalaciones, y supervisión del ambiente de vida y trabajo dentro de la unidad."
+    },
+    {
+      "pregunta": "¿Cómo se garantiza el respeto a los Derechos Humanos dentro de la administración de personal?",
+      "respuesta": "Capacitación continua, aplicación de normativas internacionales, monitoreo de conductas, y cumplimiento de principios del DIH en operaciones militares."
+    }
+  ]
+  

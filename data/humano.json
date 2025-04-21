@@ -1,0 +1,164 @@
+[
+  {
+    "pregunta": "Explique los cinco principios fundamentales del Derecho Internacional Humanitario y ejemplifique su aplicación en una operación militar real o simulada.",
+    "respuesta": "Los principios son: Humanidad, Necesidad militar, Proporcionalidad, Distinción y Limitación. Por ejemplo, en una operación urbana, se debe evitar el uso de armas incendiarias en un hospital (distinción), elegir medios proporcionales al objetivo (proporcionalidad), y respetar la vida de un combatiente que se rinde (humanidad)."
+  },
+  {
+    "pregunta": "Describa y diferencie los tres tipos de conflictos armados reconocidos por el DIH: CAI, CANI y CAII. Mencione un ejemplo real de cada uno.",
+    "respuesta": "CAI: Conflicto entre dos o más Estados (ej. Guerra de las Malvinas). CANI: Entre el Estado y grupos armados internos (ej. Colombia vs FARC). CAII: Un conflicto interno con intervención extranjera (ej. Siria con participación de potencias)."
+  },
+  {
+    "pregunta": "¿Cuál es el papel del comandante en la aplicación del DIH durante las operaciones militares? Mencione al menos tres responsabilidades clave.",
+    "respuesta": "Debe planificar instrucción en tiempo de paz, emitir órdenes conforme al DIH, prevenir infracciones y asumir responsabilidad penal si omite actuar ante violaciones."
+  },
+  {
+    "pregunta": "Describa las fases de las Reglas de Enfrentamiento (alerta amarilla, azul y roja) y su aplicación en un contexto táctico real.",
+    "respuesta": "Amarilla: defensa propia. Azul: amenaza probable, sin necesidad de autorización superior. Roja: ataque inminente. Ejemplo: en frontera, se detecta movimiento hostil — alerta azul activa fuego preventivo autorizado."
+  },
+  {
+    "pregunta": "Explique las obligaciones del Estado frente al DIH según el Estatuto de Roma y los Convenios de Ginebra. ¿Qué ocurre si no cumple?",
+    "respuesta": "El Estado debe instruir, legislar, sancionar y cooperar. Si incumple, puede ser responsable ante la Corte Penal Internacional y se sancionan las omisiones del mando militar."
+  },
+  {
+    "pregunta": "Defina el principio de proporcionalidad del DIH y exponga su aplicación en un escenario urbano densamente poblado.",
+    "respuesta": "Este principio limita los ataques que puedan causar daño colateral excesivo. Si una fábrica de armas se encuentra en un barrio civil, debe evitarse o minimizarse el ataque."
+  },
+  {
+    "pregunta": "Analice la diferencia entre el principio de necesidad militar y el de humanidad en operaciones ofensivas.",
+    "respuesta": "La necesidad militar busca ventaja táctica; la humanidad protege a personas no combatientes. Deben equilibrarse: no se puede atacar una escuela si no es objetivo militar directo."
+  },
+  {
+    "pregunta": "Explique el concepto de perfidia y diferéncielo de estratagema según el M-PI-30.",
+    "respuesta": "Perfidia es traición bajo apariencia de protección (ej. uso de cruz roja para atacar). Estratagema es engaño lícito (ej. señuelos, camuflaje)."
+  },
+  {
+    "pregunta": "¿Qué reglas deben seguirse al capturar un enemigo según los Convenios de Ginebra?",
+    "respuesta": "Desarmarlo, respetar su vida, asistirlo médicamente y remitirlo al escalón superior. Está prohibido maltratarlo o despojarlo de bienes personales esenciales."
+  },
+  {
+    "pregunta": "Justifique si un combatiente que se infiltra sin uniforme puede ser considerado prisionero de guerra.",
+    "respuesta": "No, pierde protección por ser considerado espía, según el III Convenio de Ginebra."
+  },
+
+  {
+    "pregunta": "¿Qué bienes se consideran protegidos por el DIH y qué normas regulan su protección?",
+    "respuesta": "Bienes culturales, religiosos, sanitarios y esenciales para la supervivencia (agua, alimentos). Regulan: Convención de La Haya de 1954, Convenios de Ginebra y sus protocolos."
+  },
+  {
+    "pregunta": "Explique cómo se tipifican las infracciones graves al DIH en el COIP del Ecuador.",
+    "respuesta": "Se sancionan en el capítulo de delitos contra personas y bienes protegidos. Ej: tortura, desaparición, deportación, uso de armas prohibidas. Requiere acción judicial y penal por parte del comandante."
+  },
+  {
+    "pregunta": "¿Qué armas están prohibidas por el DIH y qué tratados las regulan?",
+    "respuesta": "Minas antipersonales (Ottawa 1997), armas químicas (París 1993), municiones de racimo (2008), y armas bacteriológicas (Convención 1972)."
+  },
+  {
+    "pregunta": "Analice el uso del principio de distinción en un bombardeo aéreo con presencia civil.",
+    "respuesta": "Se debe identificar objetivos militares y evitar atacar blancos civiles. Si hay duda razonable, no se puede proceder al ataque según el Protocolo I."
+  },
+  {
+    "pregunta": "¿Cuál es el estatus legal de los prisioneros de guerra antes de su captura según el III Convenio de Ginebra?",
+    "respuesta": "Gozan del estatus desde el momento en que caen en poder del enemigo, incluso antes de ser procesados judicialmente."
+  },
+  {
+    "pregunta": "Mencione al menos cinco infracciones graves contra personas protegidas por el DIH.",
+    "respuesta": "Homicidio intencional, tortura, tratos inhumanos, violación, deportación forzosa, toma de rehenes."
+  },
+  {
+    "pregunta": "¿Qué condiciones debe cumplir un grupo armado irregular para ser considerado fuerza combatiente legítima?",
+    "respuesta": "Fuerza organizada, mando responsable, disciplina interna y respeto al DIH."
+  },
+  {
+    "pregunta": "Explique el rol del CICR en conflictos armados según el DIH.",
+    "respuesta": "Protege a víctimas, visita prisioneros, facilita ayuda humanitaria, media en negociaciones y promueve la difusión del DIH."
+  },
+  {
+    "pregunta": "Diferencie entre Derecho Internacional Humanitario (DIH) y Derecho Internacional de los Derechos Humanos (DIDH).",
+    "respuesta": "El DIH se aplica en conflicto armado; el DIDH en todo momento. El DIH permite limitaciones por necesidad militar; el DIDH no permite suspensión de ciertos derechos fundamentales."
+  },
+  {
+    "pregunta": "En un conflicto armado interno, ¿qué normas se aplican según el artículo 3 común de los Convenios de Ginebra?",
+    "respuesta": "Prohíbe violencia contra personas fuera de combate, tortura, toma de rehenes, atentados contra la vida y trato inhumano."
+  },
+
+  {
+    "pregunta": "Justifique si es legítimo atacar un hospital donde se presume hay combatientes enemigos.",
+    "respuesta": "Solo si deja de cumplir función humanitaria y se usa con fines militares. Debe advertirse previamente según el Protocolo I."
+  },
+  {
+    "pregunta": "Mencione tres medidas preventivas y tres represivas del DIH.",
+    "respuesta": "Preventivas: instrucción, legislación nacional, nombramiento de asesores jurídicos. Represivas: juicios penales, cooperación judicial, sanciones internas."
+  },
+  {
+    "pregunta": "Analice la aplicación del principio de proporcionalidad en la toma de un edificio civil con presencia enemiga.",
+    "respuesta": "Debe evitarse el uso de fuego pesado si hay civiles. Si se ataca, se justifica solo si la ventaja militar supera los posibles daños colaterales."
+  },
+  {
+    "pregunta": "Defina el crimen de genocidio y brinde un ejemplo histórico.",
+    "respuesta": "Es la destrucción total o parcial de un grupo étnico, religioso o nacional. Ejemplo: el Holocausto (judíos, 1940s)."
+  },
+  {
+    "pregunta": "Explique el rol del comandante ante una violación al DIH cometida por subordinados.",
+    "respuesta": "Debe impedir la infracción, denunciarla y tomar medidas disciplinarias o penales. La omisión genera responsabilidad penal según el Estatuto de Roma y COIP."
+  },
+  {
+    "pregunta": "¿Qué establece la Convención de Ottawa de 1997?",
+    "respuesta": "Prohíbe producción, almacenamiento y uso de minas antipersonales. Obliga a su destrucción e impide su transferencia."
+  },
+  {
+    "pregunta": "Mencione cinco características esenciales del Derecho Internacional Humanitario.",
+    "respuesta": "1. Parte del Derecho Internacional Público. 2. Aplica en conflictos armados. 3. Obliga a Estados y combatientes. 4. No impide operaciones militares. 5. Protege personas fuera de combate."
+  },
+  {
+    "pregunta": "Explique qué se considera una zona desmilitarizada según el DIH.",
+    "respuesta": "Es un área donde ambas partes acuerdan excluir operaciones militares. Su violación es considerada infracción grave."
+  },
+  {
+    "pregunta": "Defina la responsabilidad del Estado frente a actos cometidos por sus fuerzas armadas en conflicto armado.",
+    "respuesta": "Es responsable internacionalmente y debe tomar medidas de reparación, justicia y garantía de no repetición."
+  },
+  {
+    "pregunta": "¿Qué medios de guerra están prohibidos por el DIH según la Declaración de San Petersburgo de 1868?",
+    "respuesta": "Prohíbe proyectiles explosivos menores a 400 gramos, por causar sufrimientos innecesarios."
+  },
+  {
+    "pregunta": "¿Qué límites existen en el uso de fuego aéreo sobre zonas pobladas?",
+    "respuesta": "Debe respetarse el principio de proporcionalidad, prever daños colaterales y advertir si es posible. No se puede usar fuerza indiscriminada."
+  },
+  {
+    "pregunta": "¿Por qué no se puede usar la Cruz Roja como protección de una unidad militar en combate?",
+    "respuesta": "Constituye perfidia, ya que simula protección humanitaria para obtener ventaja táctica, violando el DIH."
+  },
+  {
+    "pregunta": "Describa las obligaciones del comandante ante la muerte de combatientes enemigos.",
+    "respuesta": "Debe asegurarse la identificación, inhumación digna, registro de pertenencias y notificación al escalón superior conforme al III Convenio."
+  },
+  {
+    "pregunta": "¿Cuál es el contenido esencial del IV Convenio de Ginebra?",
+    "respuesta": "Protege a la población civil durante conflictos armados y ocupaciones. Regula su trato, desplazamiento y derechos mínimos."
+  },
+  {
+    "pregunta": "¿En qué consiste la guerra psicológica permitida por el DIH?",
+    "respuesta": "Consiste en métodos lícitos para minar la moral enemiga, instigar la deserción o crear confusión. No debe violar normas humanitarias."
+  },
+  {
+    "pregunta": "Describa las condiciones en que el uso de fuego indirecto (artillería, morteros) es legal bajo el DIH.",
+    "respuesta": "Debe estar dirigido a un objetivo militar concreto, respetando proporcionalidad y distinción, y evitando daño a civiles."
+  },
+  {
+    "pregunta": "¿Cuáles son las categorías de personas protegidas según los Convenios de Ginebra?",
+    "respuesta": "Heridos, náufragos, prisioneros de guerra, civiles, personal sanitario, religioso, y otros no participantes en hostilidades."
+  },
+  {
+    "pregunta": "¿Qué tratamiento deben recibir los restos mortales de combatientes según el DIH?",
+    "respuesta": "Identificación, registro, tratamiento digno, entrega a familias o inhumación respetuosa. Debe evitarse su exposición o maltrato."
+  },
+  {
+    "pregunta": "¿Cuál es el rol de los asesores jurídicos operacionales en las Fuerzas Armadas?",
+    "respuesta": "Aseguran el cumplimiento del DIH en la planificación, ejecución y evaluación de operaciones militares. Son figuras clave en la prevención de infracciones."
+  },
+  {
+    "pregunta": "Mencione tres crímenes de competencia de la Corte Penal Internacional según el Estatuto de Roma.",
+    "respuesta": "Genocidio, crímenes de guerra, crímenes de lesa humanidad y crimen de agresión."
+  }
+]
