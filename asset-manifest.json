@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HistoriaCobas49/static/css/main.d4a37d3f.css",
-    "main.js": "/HistoriaCobas49/static/js/main.6039ddcb.js",
+    "main.css": "/HistoriaCobas49/static/css/main.70819fd8.css",
+    "main.js": "/HistoriaCobas49/static/js/main.b757be0e.js",
     "static/js/453.d3658cef.chunk.js": "/HistoriaCobas49/static/js/453.d3658cef.chunk.js",
     "index.html": "/HistoriaCobas49/index.html",
-    "main.d4a37d3f.css.map": "/HistoriaCobas49/static/css/main.d4a37d3f.css.map",
-    "main.6039ddcb.js.map": "/HistoriaCobas49/static/js/main.6039ddcb.js.map",
+    "main.70819fd8.css.map": "/HistoriaCobas49/static/css/main.70819fd8.css.map",
+    "main.b757be0e.js.map": "/HistoriaCobas49/static/js/main.b757be0e.js.map",
     "453.d3658cef.chunk.js.map": "/HistoriaCobas49/static/js/453.d3658cef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4a37d3f.css",
-    "static/js/main.6039ddcb.js"
+    "static/css/main.70819fd8.css",
+    "static/js/main.b757be0e.js"
   ]
 }

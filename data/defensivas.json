@@ -1,0 +1,299 @@
+[
+    {
+      "pregunta": "¿Cuál es el propósito principal de las acciones tácticas defensivas?",
+      "respuesta": "Impedir, resistir y destruir al enemigo."
+    },
+    {
+      "pregunta": "¿Cuáles son las finalidades principales de la defensa?",
+      "respuesta": "Ganar tiempo, canalizar al enemigo, negar áreas críticas y economizar fuerzas."
+    },
+    {
+      "pregunta": "¿Qué fundamento implica aprovechar alturas, obstáculos y avenidas de aproximación?",
+      "respuesta": "Uso apropiado del terreno."
+    },
+    {
+      "pregunta": "¿Qué implica el apoyo mutuo en la defensa?",
+      "respuesta": "Que las unidades se protejan y refuercen entre sí, evitando brechas."
+    },
+    {
+      "pregunta": "¿Qué significa organizar la defensa en profundidad?",
+      "respuesta": "Crear varias líneas de defensa sucesivas para absorber el ataque enemigo."
+    },
+    {
+      "pregunta": "¿Qué buscan lograr los fuegos defensivos de largo alcance?",
+      "respuesta": "Impactar al enemigo antes de que llegue a los PAC o posiciones avanzadas."
+    },
+    {
+      "pregunta": "¿Qué grado de resistencia implica mantener una posición y destruir al enemigo?",
+      "respuesta": "Defender."
+    },
+    {
+      "pregunta": "¿Qué grado de resistencia implica demorar el avance enemigo cediendo espacio?",
+      "respuesta": "Retardar."
+    },
+    {
+      "pregunta": "¿Qué grado de resistencia se basa únicamente en observar y reportar?",
+      "respuesta": "Vigilar."
+    },
+    {
+      "pregunta": "¿Qué tipo de defensa busca retener un terreno específico?",
+      "respuesta": "Defensa en posición."
+    },
+    {
+      "pregunta": "¿Qué tipo de defensa implica ganar tiempo y desgastar al enemigo?",
+      "respuesta": "Defensa en sector."
+    },
+    {
+      "pregunta": "¿Qué escalón de fuerzas tiene como misión dar alerta temprana al resto de la defensa?",
+      "respuesta": "Escalón de seguridad."
+    },
+    {
+      "pregunta": "¿Qué unidad constituye principalmente el escalón de resistencia?",
+      "respuesta": "Unidades que ocupan el área de resistencia para detener, rechazar y destruir."
+    },
+    {
+      "pregunta": "¿Qué escalón es responsable de ejecutar contraataques y reforzar brechas?",
+      "respuesta": "Escalón de reserva."
+    },
+    {
+      "pregunta": "¿Cuál es el alcance máximo recomendado para ubicar los PAC desde la LPR?",
+      "respuesta": "Entre 1000 y 2400 metros."
+    },
+    {
+      "pregunta": "¿En qué área se desarrollan principalmente los PAC y PSL?",
+      "respuesta": "Área de seguridad."
+    },
+    {
+      "pregunta": "¿Cuál es la profundidad aproximada que debe considerar una compañía en defensa?",
+      "respuesta": "1000 metros."
+    },
+    {
+      "pregunta": "¿Cuánto puede medir el frente de un batallón en defensa?",
+      "respuesta": "1200 a 2400 metros."
+    },
+    {
+      "pregunta": "¿Cuánta profundidad puede alcanzar una brigada defensiva?",
+      "respuesta": "6 a 10 kilómetros."
+    },
+    {
+      "pregunta": "¿Dónde se ubican las reservas dentro del área de defensa?",
+      "respuesta": "Área de reserva, detrás de las fuerzas de resistencia."
+    },
+    {
+      "pregunta": "¿Qué tipo de fuego defensivo ocurre entre PAC y PAG?",
+      "respuesta": "Fuegos defensivos cercanos."
+    },
+    {
+      "pregunta": "¿Qué tipo de fuego se planifica para impedir que el enemigo penetre la LPR?",
+      "respuesta": "Fuegos protectivos finales."
+    },
+    {
+      "pregunta": "¿Cómo se llama el fuego empleado cuando el enemigo penetra dentro de la posición?",
+      "respuesta": "Fuegos dentro de la posición."
+    },
+    {
+      "pregunta": "¿Qué área de operaciones incluye todas las acciones bajo responsabilidad de un comandante?",
+      "respuesta": "Área de operaciones."
+    },
+  
+        {
+          "pregunta": "Si un pelotón ocupa una zona con un frente de 500 metros, ¿qué grado de preparación mínimo debería tener si espera un ataque en 6 horas?",
+          "respuesta": "Ligeramente organizada."
+        },
+        {
+          "pregunta": "¿Cuál sería la mejor ubicación de la LPR si quiero aprovechar una cresta y campos de tiro?",
+          "respuesta": "Sobre la cresta militar o delante de ella."
+        },
+        {
+          "pregunta": "Si tengo 2 días para organizar mi defensa, ¿qué grado de preparación corresponde?",
+          "respuesta": "Sumariamente organizada."
+        },
+        {
+          "pregunta": "En una defensa en sector, ¿cuál es el principal objetivo táctico?",
+          "respuesta": "Ganar tiempo y desgastar al enemigo."
+        },
+        {
+          "pregunta": "¿Qué tipo de unidad normalmente realiza acciones de desarticulación en defensa?",
+          "respuesta": "Unidades de caballería o fuerzas altamente móviles."
+        },
+        {
+          "pregunta": "¿Qué escalón tendría la responsabilidad principal de detener un ataque enemigo en el área de resistencia?",
+          "respuesta": "Escalón de resistencia."
+        },
+        {
+          "pregunta": "¿Qué relación debe existir entre obstáculos y fuegos planificados?",
+          "respuesta": "Los fuegos deben cubrir y reforzar los obstáculos."
+        },
+        {
+          "pregunta": "Si una brigada necesita defender un frente de 4800 metros, ¿qué profundidad mínima debería tener para cumplir doctrina?",
+          "respuesta": "6 kilómetros."
+        },
+        {
+          "pregunta": "Si se ubica una reserva muy lejos del área de combate, ¿qué problema táctico puede ocurrir?",
+          "respuesta": "No podrá reaccionar a tiempo ante penetraciones enemigas."
+        },
+        {
+          "pregunta": "¿Qué significa que los fuegos de largo alcance deben ser pasados los PAG?",
+          "respuesta": "Que deben impactar al enemigo antes de llegar a las posiciones avanzadas."
+        },
+        {
+          "pregunta": "¿Qué área del campo de batalla involucra información más allá del alcance de maniobra y fuegos?",
+          "respuesta": "Área de interés."
+        },
+        {
+          "pregunta": "Si detecto un enemigo aproximándose a 1500 metros, ¿qué tipo de fuego debo priorizar?",
+          "respuesta": "Fuegos de largo alcance."
+        },
+        {
+          "pregunta": "En una acción defensiva, ¿cuándo se justifica ejecutar una retirada?",
+          "respuesta": "Cuando no existe contacto con el enemigo y se necesita reposicionarse."
+        },
+        {
+          "pregunta": "¿Qué diferencia clave existe entre repliegue y acción retardatriz?",
+          "respuesta": "El repliegue es movimiento organizado bajo presión, mientras que la acción retardatriz cambia espacio por tiempo combatiendo."
+        },
+        {
+          "pregunta": "Si mi misión es retener un punto clave con 3 días de preparación, ¿qué grado de defensa debería lograr?",
+          "respuesta": "Sumariamente organizada."
+        },
+        {
+          "pregunta": "¿Qué ventaja ofrece ubicar posiciones en contrapendiente respecto al enemigo?",
+          "respuesta": "Ocultar la defensa hasta el último momento y proteger de observación directa."
+        },
+        {
+          "pregunta": "Si en una defensa todos los apoyos mutuos fallan, ¿qué consecuencia táctica puede ocurrir?",
+          "respuesta": "El enemigo puede explotar brechas entre posiciones."
+        },
+        {
+          "pregunta": "¿Qué área conecta las patrullas avanzadas con la LPR y permite suministrar aviso temprano?",
+          "respuesta": "Área de seguridad."
+        },
+        {
+          "pregunta": "¿Qué implica disparar en el momento en que el enemigo alcanza los obstáculos?",
+          "respuesta": "Aplicar fuego planificado para detener su avance donde es más vulnerable."
+        },
+        {
+          "pregunta": "¿Cuál es el error doctrinario más grave al ubicar un PAC fuera del alcance de fuegos de apoyo?",
+          "respuesta": "Quedaría aislado y destruido sin apoyo efectivo."
+        },
+        {
+          "pregunta": "¿Qué factor predomina para determinar el grado de preparación de una posición?",
+          "respuesta": "El tiempo disponible antes del contacto enemigo."
+        },
+        {
+          "pregunta": "¿Qué debe garantizar una compañía cuando ocupa su frente defensivo en cuanto a observación y fuegos?",
+          "respuesta": "Cobertura completa y apoyo mutuo sin brechas."
+        },
+        {
+          "pregunta": "Si el terreno impide la defensa firme de la LPR, ¿qué técnica defensiva debería emplearse?",
+          "respuesta": "Emplear posiciones sucesivas en profundidad."
+        },
+        {
+          "pregunta": "¿Cuál es el riesgo principal de planificar una defensa solo sobre una única línea rígida?",
+          "respuesta": "Que la ruptura en un solo punto cause el colapso total del dispositivo."
+        },
+        
+        
+
+
+        
+            {
+              "pregunta": "¿Qué tipo de acción dinámica busca atacar al enemigo mientras aún ocupa sus áreas de reunión?",
+              "respuesta": "Desarticulación."
+            },
+            {
+              "pregunta": "¿Qué unidad normalmente debe liderar acciones de desarticulación en defensa?",
+              "respuesta": "Unidades de caballería o mecanizadas."
+            },
+            {
+              "pregunta": "Si el comandante recibe inteligencia sobre un ataque inminente en 12 horas, ¿qué prioridad inmediata debe tener?",
+              "respuesta": "Acelerar trabajos de organización del terreno y preparar reservas."
+            },
+            {
+              "pregunta": "¿Cuál es la relación ideal entre la distancia del PAC y la LPR para optimizar alerta y tiempo de reacción?",
+              "respuesta": "1000 a 2400 metros adelante de la LPR."
+            },
+            {
+              "pregunta": "¿Qué elemento de los fundamentos defensivos garantiza la protección contra fuegos enemigos indirectos?",
+              "respuesta": "Organización en profundidad."
+            },
+            {
+              "pregunta": "¿Qué principio táctico permite evitar que los fuegos enemigos destruyan todas las posiciones a la vez?",
+              "respuesta": "Dispersión adecuada combinada con apoyo mutuo."
+            },
+            {
+              "pregunta": "¿Cuál sería el principal error doctrinario al ubicar toda la defensa en la primera línea de playa?",
+              "respuesta": "Falta de profundidad para absorber ataques."
+            },
+            {
+              "pregunta": "Si quiero reforzar un esfuerzo principal en la defensa, ¿qué elemento debo emplear?",
+              "respuesta": "La reserva."
+            },
+            {
+              "pregunta": "¿Qué implica un frente demasiado amplio para una compañía?",
+              "respuesta": "Insuficiencia de fuegos y riesgo de ser superada en varios puntos."
+            },
+            {
+              "pregunta": "¿En qué zona se despliega principalmente la reserva de una brigada defensiva?",
+              "respuesta": "Área de reserva."
+            },
+            {
+              "pregunta": "¿Qué debe tener prioridad en la ubicación de un PAC?",
+              "respuesta": "Cobertura, encubrimiento y estar dentro del alcance de apoyo de fuegos indirectos."
+            },
+            {
+              "pregunta": "¿Qué acción defensiva implica movimiento sucesivo de posiciones de retardo hasta alcanzar un nuevo terreno favorable?",
+              "respuesta": "Acción retardatriz."
+            },
+            {
+              "pregunta": "¿Qué técnica defensiva consiste en disparar solo cuando el enemigo esté completamente dentro de la zona de fuego?",
+              "respuesta": "Fuego planificado y dirigido a zonas de destrucción."
+            },
+            {
+              "pregunta": "¿Cuál es la función principal del Área de Seguridad?",
+              "respuesta": "Proporcionar alerta temprana y retardo inicial al enemigo."
+            },
+            {
+              "pregunta": "¿Qué riesgo táctico existe si no se establecen PAC en una defensa?",
+              "respuesta": "Falta de alerta temprana y riesgo de sorpresas tácticas."
+            },
+            {
+              "pregunta": "¿Qué ventaja brinda situar posiciones defensivas en la contrapendiente?",
+              "respuesta": "Ocultar las posiciones y protegerlas del fuego directo enemigo."
+            },
+            {
+              "pregunta": "¿Qué misión principal cumple el escalón de reserva en una defensa?",
+              "respuesta": "Ejecutar contraataques locales y reforzar áreas debilitadas."
+            },
+            {
+              "pregunta": "¿Qué se entiende por elasticidad en una defensa en sector?",
+              "respuesta": "Capacidad de replegarse y reorganizarse sin colapsar bajo presión enemiga."
+            },
+            {
+              "pregunta": "¿Qué acción táctica permite ganar tiempo para que el escalón superior reorganice sus fuerzas?",
+              "respuesta": "Acción retardatriz."
+            },
+            {
+              "pregunta": "¿Qué implica que un área de combate esté bien cubierta con fuegos cruzados?",
+              "respuesta": "Que no existan brechas no observadas o no batidas."
+            },
+            {
+              "pregunta": "Si una compañía recibe una franja de 900 metros para defender, ¿es doctrinalmente aceptable?",
+              "respuesta": "Sí, el frente para compañía varía entre 600 y 1200 metros."
+            },
+            {
+              "pregunta": "¿Qué problema genera una reserva ubicada fuera del alcance de apoyo artillero?",
+              "respuesta": "Su contraataque será lento y poco efectivo."
+            },
+            {
+              "pregunta": "¿Qué debe incluir siempre una orden defensiva sobre trabajos de OT?",
+              "respuesta": "Fechas, tareas específicas y coordinación con ingenieros."
+            },
+            {
+              "pregunta": "¿Qué elemento puede fortalecer un área de resistencia ante ataques blindados enemigos?",
+              "respuesta": "Obstáculos antitanque y campos minados cubiertos por fuego."
+            }
+          ]
+          
+
+
