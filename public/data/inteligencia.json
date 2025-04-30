@@ -1,0 +1,103 @@
+[
+    {
+      "pregunta": "Describa las fases del ciclo de producción de inteligencia y aplique un ejemplo práctico para cada una en una operación de vigilancia en frontera.",
+      "respuesta": "1) Planeación y dirección: Se determinan RICC y EEI. 2) Búsqueda: Patrullas y medios tecnológicos recogen información. 3) Procesamiento: Se analiza y clasifica lo recolectado. 4) Producción: Se elabora el informe de inteligencia. 5) Difusión: Se entrega a unidades operativas. En vigilancia fronteriza, este ciclo es continuo para anticipar incursiones enemigas."
+    },
+    {
+      "pregunta": "Explique qué son los Requerimientos de Información Críticos del Comandante (RICC) y enumere sus componentes.",
+      "respuesta": "Son necesidades de información vitales para la toma de decisiones. Se dividen en: RPI (Requerimientos Prioritarios de Inteligencia), EEI (Elementos Esenciales de Inteligencia) y RIFA (Requerimientos de Información de Fuerzas Amigas)."
+    },
+    {
+      "pregunta": "Durante una operación de reconocimiento aéreo se detecta una columna de vehículos enemigos, pero la fuente es no confirmada. ¿Qué debe hacer el oficial de inteligencia según doctrina?",
+      "respuesta": "Debe registrar la información como indicio, verificar su veracidad con otras agencias de búsqueda, y emitir nuevas órdenes de búsqueda o pedidos al escalón superior para confirmación o descarte, según el PBI."
+    },
+    {
+      "pregunta": "Explique qué es la Preparación de Inteligencia en el Campo de Batalla (P.I.C.B.) y cuál es su finalidad doctrinaria.",
+      "respuesta": "Es un análisis sistemático y continuo del enemigo y el terreno para determinar los cursos de acción más probables y peligrosos del enemigo. Su finalidad es apoyar la toma de decisiones del comandante en el PMTD."
+    },
+    {
+      "pregunta": "Analice el papel de la contrainteligencia en una operación de defensa territorial. Incluya acciones pasivas y activas.",
+      "respuesta": "Pasivas: seguridad de comunicaciones, encubrimiento, control de acceso. Activas: detección de infiltrados, engaño, operaciones de interferencia. Su objetivo es impedir que el enemigo obtenga inteligencia útil sobre nuestras fuerzas."
+    },
+    {
+      "pregunta": "Explique la diferencia entre indicio, información e inteligencia, según el manual de inteligencia MIA-16-02.",
+      "respuesta": "El indicio es una señal o pista. La información es el dato bruto aún no procesado. La inteligencia es el resultado del análisis, evaluación y procesamiento de esa información, útil para tomar decisiones operacionales."
+    },
+    {
+      "pregunta": "Durante una operación en la selva se detectan señales de radio provenientes de una zona no ocupada. ¿Qué disciplina de inteligencia se debe aplicar y qué acciones se deben tomar?",
+      "respuesta": "Se debe aplicar inteligencia de señales (SIGINT). Se recomienda interceptar, registrar y triangular la señal, luego coordinar con unidades de reconocimiento para verificar posibles dispositivos enemigos ocultos."
+    },
+    {
+      "pregunta": "Defina los niveles de inteligencia y establezca un ejemplo de cada uno.",
+      "respuesta": "Estratégica: análisis de capacidad nacional (ej. evaluación de fuerzas vecinas). Operativa: predicción de planes enemigos (ej. despliegue de brigadas). Táctica: información inmediata del campo de batalla (ej. patrulla observa posiciones enemigas)."
+    },
+    {
+      "pregunta": "Explique cómo se estructura el Sistema Operativo de Inteligencia en el Campo de Batalla (SOICB).",
+      "respuesta": "Incluye procedimientos, personal, organismos y equipos que generan inteligencia en los niveles táctico, operativo y estratégico. Está integrado a maniobra, mando y apoyo logístico para apoyar al comandante."
+    },
+    {
+      "pregunta": "¿Qué medidas debe tomar un oficial de inteligencia cuando recibe información ambigua sobre el enemigo?",
+      "respuesta": "Debe registrarla como indicio, contrastarla con otras fuentes, modificar el plan de búsqueda si es necesario y emitir nuevas órdenes o pedidos para su confirmación o descarte."
+    },
+    {
+      "pregunta": "¿Qué es un EEI y cómo se formula correctamente en una operación ofensiva?",
+      "respuesta": "Es un elemento clave que el comandante necesita saber para decidir. Ejemplo: ¿El enemigo posee armas antitanque en el sector noreste? Se formula con precisión y debe ser específico, relevante y enfocado."
+    },
+    {
+      "pregunta": "En una misión nocturna, el grupo de inteligencia detecta movimientos térmicos. ¿Qué documento se debe actualizar inmediatamente y por qué?",
+      "respuesta": "La Carta de Situación del Enemigo debe actualizarse, ya que refleja en tiempo real los movimientos del enemigo y permite al comandante visualizar cambios en la amenaza."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia doctrinaria entre una agencia de búsqueda y una fuente de información?",
+      "respuesta": "La agencia busca información (persona o unidad designada). La fuente es el lugar o cosa de donde se obtiene la información (ej. documento, imagen, observación directa)."
+    },
+    {
+      "pregunta": "Explique cómo se priorizan los requerimientos de información dentro del plan de búsqueda.",
+      "respuesta": "Se priorizan según su valor para la toma de decisiones, el tiempo disponible y los recursos. Los RICC (RPI, EEI, RIFA) se jerarquizan y se asignan a las agencias más eficaces para cada caso."
+    },
+    {
+      "pregunta": "Defina el concepto de área de interés designada (A.I.D) y su función en la planificación táctica.",
+      "respuesta": "Es un área donde se espera obtener información clave sobre los cursos de acción del enemigo. Su función es confirmar o negar esos cursos de acción a través de indicadores específicos."
+    },
+    {
+      "pregunta": "Durante una operación se observa un cambio en las rutas logísticas enemigas. ¿Qué acción debe tomar el oficial de inteligencia y qué documento se modifica?",
+      "respuesta": "Debe actualizar el Plan de Búsqueda de Información (PBI), emitir órdenes de búsqueda a las unidades subordinadas y reportar el hallazgo al escalón superior como posible cambio en el C.A enemigo."
+    },
+    {
+      "pregunta": "¿Qué son los canales de comunicación en inteligencia y cuándo se utiliza cada uno?",
+      "respuesta": "Canal técnico: entre unidades de inteligencia para temas doctrinarios. Canal de mando: entre inteligencia y la unidad apoyada. El técnico se prioriza para productos de inteligencia; el de mando, para decisiones tácticas inmediatas."
+    },
+    {
+      "pregunta": "Explique la diferencia entre reconocimiento y búsqueda de información en el contexto de inteligencia.",
+      "respuesta": "El reconocimiento es una operación específica de observación. La búsqueda es un proceso continuo que incluye múltiples medios y técnicas para recolectar información relevante."
+    },
+    {
+      "pregunta": "¿Qué debe contener una hoja de trabajo del oficial de inteligencia?",
+      "respuesta": "Contiene los RICC, agencias asignadas, métodos de búsqueda, cronograma, indicadores, A.I.D, y toda la planificación detallada del esfuerzo de búsqueda orientado a apoyar la operación."
+    },
+    {
+      "pregunta": "¿Qué es el informe al instante y en qué situaciones se utiliza?",
+      "respuesta": "Es un reporte rápido de inteligencia que contiene datos urgentes aún no procesados. Se usa cuando la inmediatez del dato puede influir decisivamente en una operación en curso."
+    },
+    {
+      "pregunta": "Durante una ofensiva, el enemigo cambia su despliegue en tiempo real. ¿Qué herramienta visual debe usar el oficial de inteligencia para mostrar este cambio?",
+      "respuesta": "La Carta de Situación del Enemigo, ya que permite visualizar gráficamente los cambios en tiempo real y facilita la decisión táctica inmediata del comandante."
+    },
+    {
+      "pregunta": "¿Qué se entiende por inteligencia táctica de combate y cuál es su valor en una operación?",
+      "respuesta": "Es la inteligencia que se produce en el campo de batalla y tiene vigencia corta pero impacto inmediato. Sirve para ejecutar acciones de combate de forma oportuna y precisa."
+    },
+    {
+      "pregunta": "¿Qué son los documentos de inteligencia y cuál es su finalidad doctrinaria?",
+      "respuesta": "Incluyen: Estudio de Área, INPERIN, REIN, Informes al Instante, Carta de Situación, Anexo de Inteligencia. Su finalidad es apoyar la planificación y toma de decisiones con información procesada y confiable."
+    },
+    {
+      "pregunta": "Un comandante solicita conocer la capacidad de fuego de un grupo enemigo en una colina. ¿Qué tipo de requerimiento está haciendo?",
+      "respuesta": "Un Requerimiento Prioritario de Inteligencia (RPI), ya que es esencial para tomar decisiones tácticas inmediatas sobre el uso de fuego y maniobra."
+    },
+    {
+      "pregunta": "¿Cuál es la función del Diario de Informaciones en una unidad de inteligencia?",
+      "respuesta": "Registrar cronológicamente toda la información recibida, su fuente, hora, evaluación y seguimiento. Permite tener un control histórico de los datos recopilados y su evolución."
+    }
+  ]
+  

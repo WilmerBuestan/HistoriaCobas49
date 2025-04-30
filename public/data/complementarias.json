@@ -1,0 +1,303 @@
+[
+    {
+      "pregunta": "¿Cuál es el propósito general de las acciones tácticas complementarias?",
+      "respuesta": "Complementar las acciones fundamentales ofensivas, defensivas y retrógradas mediante tareas tácticas específicas que aumentan la eficacia y seguridad de la operación."
+    },
+    {
+      "pregunta": "¿Qué papel cumplen las acciones tácticas complementarias en la planificación a nivel CIA?",
+      "respuesta": "Forman parte constitutiva de toda misión táctica, ya que el comandante de compañía las ejecuta como tareas subordinadas planificadas por el batallón para apoyar el objetivo general."
+    },
+    {
+      "pregunta": "¿Por qué el reconocimiento debe evitar aferrarse al combate?",
+      "respuesta": "Porque su objetivo no es combatir, sino obtener información; aferrarse al combate compromete la misión, pone en riesgo a la fuerza y retrasa la entrega de información al escalón superior."
+    },
+    {
+      "pregunta": "¿Qué significa 'desarrollar la situación' durante el reconocimiento?",
+      "respuesta": "Implica identificar la composición, dispositivo y efectivos del enemigo mediante la observación directa o técnicas de recolección de información durante la operación."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia doctrinaria entre un reconocimiento de zona y uno de área?",
+      "respuesta": "El reconocimiento de zona abarca una extensión amplia y se ejecuta por orden del escalón superior, mientras que el de área se enfoca en puntos específicos dentro de esa zona, y puede ser delegado a la CIA."
+    },
+    {
+      "pregunta": "¿Qué elementos deben coordinarse gráficamente en un reconocimiento de ruta?",
+      "respuesta": "Start point, líneas fase, puntos de control (CP), puntos de contacto y eje de movimiento deben ser definidos y representados en el calco de operaciones."
+    },
+    {
+      "pregunta": "¿Cuál es el fundamento más importante del reconocimiento?",
+      "respuesta": "Obtener información rápida, precisa y oportuna del enemigo y del terreno para apoyar la toma de decisiones del comandante superior."
+    },
+    {
+      "pregunta": "¿Qué caracteriza a la actuación del personal durante el reconocimiento?",
+      "respuesta": "Una actuación rápida, agresiva, con máxima iniciativa de los subordinados y constante transmisión de datos hacia el escalón superior."
+    },
+    {
+      "pregunta": "¿Cuáles son los tipos de reconocimiento que puede ejecutar una compañía?",
+      "respuesta": "Principalmente reconocimiento de ruta, y en algunos casos reconocimiento de área, siempre dentro de los límites del PAC o la LPR asignados."
+    },
+    {
+      "pregunta": "¿Qué distingue un reconocimiento ofensivo de los demás tipos?",
+      "respuesta": "Está integrado dentro de una operación ofensiva para identificar el dispositivo, composición y efectivos del enemigo, facilitando la preparación del ataque principal."
+    },
+    {
+      "pregunta": "¿Cuál es la definición doctrinaria de seguridad como acción táctica?",
+      "respuesta": "Es el conjunto de medidas tomadas por un comandante para proteger a su unidad del sabotaje, espionaje, observación y sorpresa del enemigo."
+    },
+    {
+      "pregunta": "¿Cuáles son los propósitos fundamentales de la seguridad?",
+      "respuesta": "Preservar el secreto, evitar interferencias del enemigo, mantener la integridad de la formación, conservar la potencia de combate y garantizar la libertad de acción."
+    },
+    {
+      "pregunta": "¿Qué fundamentos sustentan la ejecución de una acción táctica de seguridad?",
+      "respuesta": "Alerta oportuna, seguridad continua, contacto con el enemigo, espacio de maniobra suficiente y orientación de la misión en función de fuerzas aseguradas."
+    },
+    {
+      "pregunta": "¿Cuál es la principal diferencia entre fuerza de cobertura y fuerza de protección?",
+      "respuesta": "La fuerza de cobertura actúa de forma independiente y alejada, mientras que la de protección opera dentro del alcance de fuegos de la unidad protegida."
+    },
+    {
+      "pregunta": "¿Qué tipo de fuerza de seguridad puede destacarse desde una compañía?",
+      "respuesta": "Fuerzas de vigilancia, como Pelotones de Seguridad Local (PSL), que cumplen funciones limitadas dentro del alcance de la CIA."
+    },
+    {
+      "pregunta": "¿Qué nivel doctrinario materializa la fuerza de cobertura?",
+      "respuesta": "La brigada o división, quienes disponen de medios de caballería o fuerzas autosuficientes con gran movilidad."
+    },
+    {
+      "pregunta": "¿Qué funciones cumple la fuerza de protección en una unidad en marcha?",
+      "respuesta": "Proteger de observación terrestre, fuegos indirectos y ataques sorpresa; puede adoptar posiciones como vanguardia, flanguardia o retaguardia."
+    },
+    {
+      "pregunta": "¿Cuándo debe planificarse seguridad en una operación retrograda?",
+      "respuesta": "Cuando se ejecutan movimientos como repliegue o acción retardatriz, donde la seguridad debe garantizar la integridad de las posiciones y la coordinación del movimiento."
+    },
+    {
+      "pregunta": "¿Cuál es la relación entre la acción de seguridad y el fuego de apoyo?",
+      "respuesta": "El fuego de apoyo puede ser parte de una medida de seguridad para neutralizar amenazas mientras la unidad se desplaza o se reagrupa."
+    },
+    {
+      "pregunta": "¿Qué amenazas busca contrarrestar una acción de seguridad?",
+      "respuesta": "Sabotaje, observación, ataques de fuerzas especiales, infiltraciones terrestres, ataques aeromóviles o aerotransportados del enemigo."
+    },
+    {
+      "pregunta": "¿Qué medidas pueden tomarse para garantizar seguridad continua?",
+      "respuesta": "Reconocimiento previo, patrullas de vigilancia, observación de puntos críticos, fuego de cobertura, despliegue de PSL y empleo de medios electrónicos."
+    },
+    {
+      "pregunta": "¿Qué es una acción de relevo y por qué se considera complementaria?",
+      "respuesta": "Es el reemplazo de una unidad por otra en el cumplimiento de una misión, que garantiza la continuidad del esfuerzo táctico sin pérdida de capacidad operativa."
+    },
+    {
+      "pregunta": "¿Qué métodos de relevo pueden emplearse a nivel compañía?",
+      "respuesta": "Sustitución directa, sobrepasamiento o repliegue a través de posiciones de retaguardia según el tipo de operación."
+    },
+    {
+      "pregunta": "¿Qué riesgos implica una mala ejecución del reconocimiento?",
+      "respuesta": "Falta de información, sorpresas tácticas, emboscadas, contacto no planificado y fracaso de la misión por desconocimiento del terreno o enemigo."
+    },
+    {
+      "pregunta": "¿Por qué las acciones tácticas complementarias requieren tiempo para su ejecución?",
+      "respuesta": "Porque deben planificarse cuidadosamente, coordinarse con otras maniobras y ejecutarse con precisión para evitar comprometer la operación general."
+    },
+        {
+          "pregunta": "¿Cómo contribuye la acción de reconocimiento a la preparación del comandante de compañía?",
+          "respuesta": "Le proporciona información precisa sobre el enemigo y el terreno, permitiéndole tomar decisiones informadas, anticipar riesgos, elegir rutas y coordinar fuegos y movimientos con mayor efectividad."
+        },
+        {
+          "pregunta": "¿En qué casos el escalón CIA puede ejecutar un reconocimiento de área?",
+          "respuesta": "Cuando se requiere obtener información detallada de un punto específico dentro de una zona delimitada por el batallón, como un cruce de río, una edificación clave o un obstáculo natural."
+        },
+        {
+          "pregunta": "¿Por qué es fundamental respetar los límites de PAC y LPR en una acción de reconocimiento?",
+          "respuesta": "Porque sobrepasarlos sin autorización puede comprometer la seguridad de la unidad, generar contacto prematuro con el enemigo y afectar la coordinación general de la operación."
+        },
+        {
+          "pregunta": "¿Cuál es la utilidad del start point en un reconocimiento de ruta?",
+          "respuesta": "Es el punto inicial desde donde parte la patrulla de reconocimiento y permite establecer líneas de fase, tiempos de movimiento y control del avance."
+        },
+        {
+          "pregunta": "¿Qué papel cumple la iniciativa subordinada en un reconocimiento?",
+          "respuesta": "Permite a los líderes de patrulla tomar decisiones tácticas inmediatas frente a obstáculos, amenazas o cambios en el terreno, asegurando la continuidad de la misión sin depender del mando superior."
+        },
+        {
+          "pregunta": "¿Qué se debe considerar al definir el eje de movimiento en una acción de reconocimiento?",
+          "respuesta": "Debe garantizar el encubrimiento, seguridad, acceso a puntos de observación y conexión con las rutas de repliegue o apoyo, considerando obstáculos naturales y presencia enemiga."
+        },
+        {
+          "pregunta": "¿Qué acciones puede ejecutar una CIA para proveer seguridad durante el relevo?",
+          "respuesta": "Establecer puestos de observación, coordinación de horarios y sectores con la unidad entrante o saliente, asegurar puntos de control y garantizar fuegos de cobertura durante la transición."
+        },
+        {
+          "pregunta": "¿Qué implica el uso de medidas pasivas de seguridad?",
+          "respuesta": "Utilizar técnicas de encubrimiento, dispersión, silencio de radio, camuflaje, disciplina de luces y rutas alternas para evitar detección del enemigo."
+        },
+        {
+          "pregunta": "¿Por qué la CIA no planifica acciones de cobertura?",
+          "respuesta": "Porque doctrinalmente son planificadas por brigadas o divisiones y requieren medios autosuficientes como caballería o artillería, que superan las capacidades de una compañía."
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre una fuerza de vigilancia y una fuerza de protección?",
+          "respuesta": "La fuerza de vigilancia monitorea constantemente un área, mientras que la fuerza de protección actúa dentro del alcance de los fuegos de la unidad protegida para repeler amenazas inmediatas."
+        },
+        {
+          "pregunta": "¿Cómo puede una CIA contribuir al reconocimiento de zona planificado por el batallón?",
+          "respuesta": "Ejecutando reconocimientos de ruta o de área dentro de esa zona, recolectando datos específicos sobre obstáculos, caminos y posibles posiciones enemigas."
+        },
+        {
+          "pregunta": "¿Cuál es la finalidad de una acción de engaño táctico?",
+          "respuesta": "Inducir al enemigo a tomar decisiones erróneas respecto a la ubicación, fuerza o intenciones de las tropas propias, mediante información falsa, señuelos o movimientos simulados."
+        },
+        {
+          "pregunta": "¿Qué riesgos operativos se presentan si no se ejecuta adecuadamente una acción de seguridad?",
+          "respuesta": "Infiltraciones, observación del enemigo, emboscadas, sabotajes o pérdida de la sorpresa y del secreto operacional."
+        },
+        {
+          "pregunta": "¿Qué tipo de información debe recolectarse en un reconocimiento de área?",
+          "respuesta": "Condiciones del terreno, rutas de acceso, obstáculos, puntos de observación, estructuras, presencia enemiga y características clave del entorno."
+        },
+        {
+          "pregunta": "¿Cómo se asegura la transmisión de datos en un reconocimiento eficiente?",
+          "respuesta": "Mediante el uso de equipos de comunicación confiables, frecuencias asignadas, puntos de contacto preestablecidos y códigos breves para reportes rápidos y seguros."
+        },
+        {
+          "pregunta": "¿Por qué es importante mantener contacto con el enemigo durante el reconocimiento?",
+          "respuesta": "Para asegurar el seguimiento de sus movimientos, confirmar sus posiciones y evitar ser sorprendido o perder la oportunidad de informar sobre cambios en su dispositivo."
+        },
+        {
+          "pregunta": "¿Cómo debe actuar una patrulla de reconocimiento si detecta una fuerza enemiga superior?",
+          "respuesta": "Evitar el combate directo, buscar rutas de evasión seguras, informar de inmediato al escalón superior y, si es posible, seguir observando desde una posición encubierta."
+        },
+        {
+          "pregunta": "¿Qué características debe tener una patrulla de seguridad local en una operación de defensa?",
+          "respuesta": "Ser discreta, constante en la vigilancia, con conocimiento del terreno y capacidad de alerta temprana para detectar infiltraciones o acercamientos enemigos."
+        },
+        {
+          "pregunta": "¿En qué consiste el principio de 'seguridad continua'?",
+          "respuesta": "En mantener medidas de protección en todo momento y durante todas las fases de la operación: movimiento, estacionamiento, combate y reorganización."
+        },
+        {
+          "pregunta": "¿Qué se entiende por acción táctica de relevo por sobrepasamiento?",
+          "respuesta": "Cuando una unidad activa avanza a través de otra que está en contacto o defendiendo, asumiendo la continuidad del combate o del avance sin interrupción."
+        },
+        {
+          "pregunta": "¿Qué función cumplen los puntos de control en el reconocimiento de ruta?",
+          "respuesta": "Permiten verificar avances, reagrupar personal, orientar la navegación y asegurar que la misión esté cumpliendo su trayectoria planificada."
+        },
+        {
+          "pregunta": "¿Qué importancia tiene la red vial en las acciones tácticas complementarias?",
+          "respuesta": "Facilita el movimiento seguro y rápido de tropas, permite acceso a puntos críticos y condiciona la selección de rutas en reconocimientos o relevos."
+        },
+        {
+          "pregunta": "¿Qué elementos del terreno deben considerarse al planificar una acción de seguridad?",
+          "respuesta": "Puntos dominantes, zonas de observación, rutas de infiltración probables, obstáculos naturales y sectores de fuego cruzado."
+        },
+        {
+          "pregunta": "¿Por qué se dice que las acciones complementarias no se ejecutan de forma aislada?",
+          "respuesta": "Porque se integran dentro del conjunto de maniobras mayores, siendo parte de la operación ofensiva, defensiva o retrograda y subordinadas al esfuerzo principal."
+        },
+        {
+          "pregunta": "¿Qué factores determinan el tipo de reconocimiento que debe ejecutarse?",
+          "respuesta": "La misión, el tiempo disponible, la información previa, el conocimiento del terreno y la localización (o no) del enemigo."
+        },      
+            {
+              "pregunta": "¿Cómo se relaciona la planificación del batallón con la ejecución de acciones tácticas complementarias por parte de la compañía?",
+              "respuesta": "El batallón planifica las acciones complementarias dentro del marco de la operación, y la compañía las ejecuta como tareas específicas enmarcadas en los límites establecidos (PAC, LPR), siendo parte del esfuerzo general."
+            },
+            {
+              "pregunta": "¿Por qué las acciones tácticas complementarias deben reflejarse explícitamente en los planes y órdenes?",
+              "respuesta": "Porque su ejecución debe estar coordinada, alineada con la intención del comandante superior y ser comprensible para todos los elementos participantes en la operación."
+            },
+            {
+              "pregunta": "¿Cómo influye el tiempo disponible en la elección del tipo de reconocimiento a ejecutar?",
+              "respuesta": "A menor tiempo disponible se prefiere reconocimiento de ruta o área; si hay tiempo suficiente, puede considerarse uno de zona, generalmente planificado por el escalón superior."
+            },
+            {
+              "pregunta": "¿Qué acciones debe tomar una CIA si durante un reconocimiento detecta un obstáculo no reportado?",
+              "respuesta": "Informar de inmediato al escalón superior, evitar el área si compromete la misión, buscar rutas alternas y reportar coordenadas exactas para futura referencia."
+            },
+            {
+              "pregunta": "¿Qué diferencia existe entre patrullas de reconocimiento y de seguridad?",
+              "respuesta": "Las de reconocimiento buscan obtener información detallada del enemigo o terreno, mientras que las de seguridad se enfocan en detectar, advertir y proteger contra amenazas inmediatas."
+            },
+            {
+              "pregunta": "¿En qué situaciones tácticas una compañía podría ejecutar una acción de seguridad en retaguardia?",
+              "respuesta": "Cuando protege instalaciones logísticas, puestos de mando, comunicaciones o rutas de abastecimiento dentro del área de operaciones."
+            },
+            {
+              "pregunta": "¿Qué ventaja brinda el empleo de patrullas de seguridad local en operaciones defensivas?",
+              "respuesta": "Permiten detectar movimientos tempranos del enemigo, evitar infiltraciones y proteger puntos vulnerables o zonas críticas del dispositivo."
+            },
+            {
+              "pregunta": "¿Cuál es el objetivo de las líneas de fase en un reconocimiento?",
+              "respuesta": "Controlar y ordenar el avance de la patrulla, permitiendo verificar progresos, establecer comunicaciones y facilitar el control del tiempo y espacio."
+            },
+            {
+              "pregunta": "¿Qué papel cumple el comandante de pelotón en una patrulla de reconocimiento?",
+              "respuesta": "Ejecuta la misión específica asignada, mantiene el control de su personal, toma decisiones tácticas inmediatas y reporta toda información al comandante de compañía."
+            },
+            {
+              "pregunta": "¿Qué indica el término 'acciones tácticas que complementan otras acciones'?",
+              "respuesta": "Que no constituyen el esfuerzo principal, pero son necesarias para garantizar el éxito del ataque, defensa o repliegue mediante tareas específicas como vigilancia, relevo o seguridad."
+            },
+            {
+              "pregunta": "¿Qué factores pueden limitar el alcance de una acción de reconocimiento a nivel CIA?",
+              "respuesta": "Restricciones del batallón, líneas de partida, PAC, alcance de fuegos, disponibilidad de medios y tiempo disponible para ejecución."
+            },
+            {
+              "pregunta": "¿Qué se debe tomar en cuenta antes de realizar un relevo en una posición táctica?",
+              "respuesta": "Coordinación con la unidad entrante o saliente, condiciones del terreno, seguridad, horarios, rutas y medidas de enlace y control."
+            },
+            {
+              "pregunta": "¿Qué diferencia existe entre relevo por sustitución y sobrepasamiento?",
+              "respuesta": "En la sustitución, una unidad reemplaza a otra en la misma posición; en el sobrepasamiento, la nueva unidad avanza a través de la anterior para continuar la operación."
+            },
+            {
+              "pregunta": "¿Qué efectos produce una buena acción de engaño táctico sobre el enemigo?",
+              "respuesta": "Desorientación, dispersión de esfuerzos, malinterpretación del objetivo real y reducción de su capacidad de respuesta efectiva."
+            },
+            {
+              "pregunta": "¿Cuál es el rol del comandante de compañía en la ejecución de una acción complementaria?",
+              "respuesta": "Ejecutar las tareas asignadas por el batallón, emplear sus medios disponibles con criterio táctico, garantizar seguridad, coordinación y cumplimiento de los objetivos asignados."
+            },
+            {
+              "pregunta": "¿Cómo puede integrarse el fuego de apoyo en una acción complementaria?",
+              "respuesta": "Proporcionando cobertura durante el movimiento de reconocimiento o relevo, neutralizando posiciones enemigas detectadas y asegurando áreas clave."
+            },
+            {
+              "pregunta": "¿Qué implica mantener contacto con el enemigo durante una operación?",
+              "respuesta": "Seguir sus movimientos, confirmar su dispositivo, impedir sorpresas y garantizar que las decisiones tácticas estén basadas en información real y actualizada."
+            },
+            {
+              "pregunta": "¿Qué características del terreno afectan más directamente la planificación de una acción de seguridad?",
+              "respuesta": "Relieve, vegetación, visibilidad, obstáculos naturales, accesibilidad y líneas de fuego disponibles para defensa o vigilancia."
+            },
+            {
+              "pregunta": "¿Qué tipo de acción complementaria sería más adecuada para proteger una fuerza en estacionamiento?",
+              "respuesta": "Acción de seguridad con patrullas locales, puestos de observación y reconocimiento periférico para detectar amenazas o movimientos enemigos."
+            },
+            {
+              "pregunta": "¿Qué ocurre si se pierde la sincronización entre una acción complementaria y la operación principal?",
+              "respuesta": "Se compromete la integridad del dispositivo, puede generarse contacto inesperado, pérdida de efectividad y exposición innecesaria al enemigo."
+            },
+            {
+              "pregunta": "¿Cuál es la prioridad principal de una patrulla de reconocimiento al ingresar a terreno enemigo?",
+              "respuesta": "Obtener la información asignada sin ser detectados ni aferrarse al combate, garantizando el retorno y la transmisión oportuna de datos."
+            },
+            {
+              "pregunta": "¿Qué criterios debe cumplir el personal seleccionado para una patrulla de seguridad?",
+              "respuesta": "Disciplina, sigilo, experiencia en combate cercano, conocimiento del terreno, iniciativa y capacidad de reacción rápida."
+            },
+            {
+              "pregunta": "¿Cómo afecta la falta de acciones complementarias a una operación ofensiva?",
+              "respuesta": "Reduce la protección del dispositivo, disminuye la información disponible, expone a la fuerza al sabotaje o emboscadas, y debilita la capacidad de reacción."
+            },
+            {
+              "pregunta": "¿Por qué es importante que la CIA comprenda el concepto general de la operación para ejecutar acciones complementarias?",
+              "respuesta": "Porque su tarea, aunque puntual, se enmarca en un esfuerzo mayor y debe alinearse a los objetivos, tiempos y límites de la operación para garantizar su eficacia."
+            },
+            {
+              "pregunta": "¿Qué limitaciones doctrinarias tiene la CIA para planificar independientemente una acción de reconocimiento de zona?",
+              "respuesta": "Doctrinalmente está reservado al batallón o brigada; la CIA puede participar dentro de esa zona como elemento subordinado mediante reconocimientos de ruta o área."
+            }
+          ]
+          

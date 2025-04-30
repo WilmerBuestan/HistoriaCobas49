@@ -1,0 +1,103 @@
+[
+    {
+      "pregunta": "Describa los párrafos que conforman una orden de operaciones según la doctrina militar, e indique brevemente qué contiene cada uno.",
+      "respuesta": "Situación, Misión, Ejecución, Apoyo logístico y administrativo, Enlace y Mando. Cada uno detalla el contexto operacional, objetivo, maniobra, sostenimiento y coordinación del mando para la ejecución táctica."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia doctrinaria entre una orden preparatoria y una orden fragmentaria?",
+      "respuesta": "La orden preparatoria anticipa la ejecución de una operación y prepara a las tropas. La orden fragmentaria modifica o complementa una orden de operaciones existente con nuevos detalles o cambios."
+    },
+    {
+      "pregunta": "Explique cuál es el rol del oficial de operaciones P3 en una unidad tipo batallón durante una operación militar.",
+      "respuesta": "Es responsable de planear, coordinar, dirigir y supervisar todas las actividades operacionales. Elabora la orden de operaciones, gestiona recursos tácticos, y mantiene actualizado al comandante sobre el desarrollo de la misión."
+    },
+    {
+      "pregunta": "¿Qué documento doctrinario define la base legal y doctrinal para la función de operaciones en una unidad militar?",
+      "respuesta": "El Plan de Gestión Operacional."
+    },
+    {
+      "pregunta": "Durante una operación en ambiente urbano, el oficial P3 debe ejecutar un control militar. ¿Qué herramienta debe usar para evaluar los riesgos y qué tipo de riesgo no debe asumir?",
+      "respuesta": "Debe usar la Matriz de Riesgo Operacional. No debe asumir el riesgo de nivel 'Alto'."
+    },
+    {
+      "pregunta": "¿Qué se entiende por alistamiento operacional y cuáles son sus componentes doctrinarios?",
+      "respuesta": "Es el conjunto de acciones para preparar una unidad militar para ejecutar operaciones. Incluye: personal, armamento, equipo, instrucción, abastecimientos, transporte y moral."
+    },
+    {
+      "pregunta": "Explique la diferencia entre capacidades operativas y operatividad.",
+      "respuesta": "Capacidades operativas: conjunto de medios humanos y materiales disponibles. Operatividad: porcentaje real de esos medios en condiciones de cumplir la misión. Ejemplo: Tener 5 tanques (capacidad), 3 operativos (operatividad del 60%)."
+    },
+    {
+      "pregunta": "¿Qué documento utiliza el P3 para registrar cronológicamente el desarrollo de una operación?",
+      "respuesta": "El Diario de Operaciones."
+    },
+    {
+      "pregunta": "¿Qué tipo de operaciones militares están incluidas dentro de las funciones del oficial P3 y cuál es su clasificación doctrinaria?",
+      "respuesta": "Incluye operaciones ofensivas, defensivas, retrogradas y de apoyo a otras instituciones del Estado. Se clasifican en funciones específicas: gestión de operaciones, organización, alistamiento operacional y operacionales psicológicas."
+    },
+    {
+      "pregunta": "¿Qué es la hoja de trabajo de operaciones y qué contiene?",
+      "respuesta": "Es un documento que incluye cronograma, fases de ejecución, tareas específicas, unidades comprometidas, tiempos y condiciones para cumplir la misión."
+    },
+    {
+      "pregunta": "Explique qué tipo de operaciones se desarrollan en apoyo a entidades del Estado y qué función del P3 las contempla.",
+      "respuesta": "Se trata de operaciones de seguridad interna, desastres naturales, control de disturbios. Se enmarcan en la función de Gestión de Operaciones del P3."
+    },
+    {
+      "pregunta": "¿Qué es la carta de situación y cuál es su utilidad en operaciones?",
+      "respuesta": "Es un documento gráfico que muestra la disposición táctica del enemigo y propias. Se usa para orientar al personal y exponer el desarrollo de la operación."
+    },
+    {
+      "pregunta": "Durante una operación, el P3 recibe bajo control operacional pelotones de otra unidad. ¿Qué debe hacer inmediatamente?",
+      "respuesta": "Debe orientar y reorganizar las tropas para su integración efectiva a la misión, respetando las tareas asignadas y líneas de comunicación."
+    },
+    {
+      "pregunta": "¿Qué documento doctrinario se utiliza para la exposición didáctica a las tropas sobre una acción táctica?",
+      "respuesta": "La Hoja de Trabajo de Operaciones."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre una misión y una tarea en la orden de operaciones?",
+      "respuesta": "La misión es el propósito general de la operación. Las tareas son acciones específicas asignadas a unidades para cumplir dicha misión."
+    },
+    {
+      "pregunta": "En el desarrollo de operaciones psicológicas, ¿a qué función específica del P3 corresponde esta actividad?",
+      "respuesta": "Corresponde a la función específica de Operaciones Psicológicas, dentro de la función general de Gestión de Operaciones."
+    },
+    {
+      "pregunta": "Explique qué son los Procedimientos Operativos Normales (PON) y cómo los aplica el oficial de operaciones.",
+      "respuesta": "Son instrucciones preestablecidas que estandarizan acciones comunes en la unidad. Se aplican para simplificar tareas recurrentes durante operaciones o actividades administrativas."
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad del Plan de Gerencia Operacional y cómo se diferencia del Plan Estratégico de Operaciones?",
+      "respuesta": "La Gerencia Operacional coordina recursos tácticos y medios a nivel de unidad. El Estratégico establece objetivos globales a nivel nacional o conjunto. El primero es más operativo y específico."
+    },
+    {
+      "pregunta": "¿Cómo debe actuar el P3 durante un repliegue táctico?",
+      "respuesta": "Debe asegurar la continuidad del mando, coordinar movimientos escalonados, proteger flancos y asegurar que la retirada mantenga el orden sin romper la cohesión de la unidad."
+    },
+    {
+      "pregunta": "Durante una instrucción, el capitán Loaiza imparte clases a personal nuevo. ¿A qué tipo de actividad docente corresponde esto doctrinariamente?",
+      "respuesta": "Corresponde a 'Instrucción', ya que se refiere a la formación básica del personal militar recientemente incorporado."
+    },
+    {
+      "pregunta": "Explique qué se entiende por 'organización' como función específica del oficial de operaciones.",
+      "respuesta": "Es la asignación de unidades, recursos y tareas dentro de la estructura táctica para ejecutar eficazmente las operaciones planificadas."
+    },
+    {
+      "pregunta": "¿Qué relación existe entre la función de operaciones y la función de logística?",
+      "respuesta": "La función de operaciones define la misión y maniobra, y la logística asegura los medios para ejecutarla. Deben estar sincronizadas para garantizar la continuidad operativa."
+    },
+    {
+      "pregunta": "¿Qué tareas realiza el P3 durante la fase de ejecución de una operación ofensiva?",
+      "respuesta": "Coordina la ejecución, supervisa el cumplimiento de tareas, comunica ajustes en tiempo real, mantiene contacto con unidades subordinadas y actualiza la situación al comandante."
+    },
+    {
+      "pregunta": "Durante una operación, ¿qué documento permite al P3 emitir modificaciones parciales sin alterar toda la orden de operaciones?",
+      "respuesta": "La Orden Fragmentaria (FRAGO)."
+    },
+    {
+      "pregunta": "Explique la función del oficial P3 en la fase de normalización posterior a una operación militar.",
+      "respuesta": "Evalúa resultados, actualiza documentos operacionales, reporta lecciones aprendidas, reorganiza tropas y asegura el retorno al estado operativo inicial o superior."
+    }
+  ]
+  
