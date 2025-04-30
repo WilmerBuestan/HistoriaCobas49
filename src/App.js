@@ -4,12 +4,12 @@ import stringSimilarity from 'string-similarity';
 import confetti from 'canvas-confetti';
 
 const materias = [
-  "GUERRA DE VIETNAM",
-  "GUERRA DEL CENEPA",
-  "GUERRA DEL GOLFO PÉRSICO",
+ // "GUERRA DE VIETNAM",
+//  "GUERRA DEL CENEPA",
+//  "GUERRA DEL GOLFO PÉRSICO",
   "GUERRA DE COREA",
-  "GUERRA POR LAS MALVINAS",
-  "DERECHO INTERNACIONAL HUMANITARIO",
+ // "GUERRA POR LAS MALVINAS",
+//  "DERECHO INTERNACIONAL HUMANITARIO",
   "Personal",
   "Operaciones",
   "INTELIGENCIA MILITAR",
