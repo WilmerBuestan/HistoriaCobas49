@@ -1,0 +1,306 @@
+[
+    {
+      "pregunta": "¿Cuál es la definición doctrinaria de una acción táctica ofensiva?",
+      "respuesta": "Es el conjunto de acciones tácticas mediante las cuales se ataca al enemigo para destruirlo o vencer su voluntad de lucha."
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad principal de ejecutar acciones ofensivas?",
+      "respuesta": "Vencer la voluntad de lucha del enemigo."
+    },
+    {
+      "pregunta": "Mencione al menos tres finalidades adicionales de las acciones tácticas ofensivas.",
+      "respuesta": "Conquistar y mantener terreno clave, privar al enemigo de recursos, facilitar operaciones futuras."
+    },
+    {
+      "pregunta": "¿Qué se busca al fijar al enemigo durante una acción ofensiva?",
+      "respuesta": "Restringir su libertad de movimiento y maniobra para facilitar la acción principal sobre otra dirección."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de la sorpresa como característica de la ofensiva?",
+      "respuesta": "Coloca al enemigo en una situación para la cual no está preparado, generando ventaja táctica."
+    },
+    {
+      "pregunta": "Explique el rol de la concentración en una acción ofensiva.",
+      "respuesta": "Implica la masificación y sincronización del poder de combate en el lugar decisivo para obtener la superioridad."
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener la rapidez en una acción ofensiva?",
+      "respuesta": "Porque niega al enemigo el tiempo necesario para reorganizarse o reaccionar de forma efectiva."
+    },
+    {
+      "pregunta": "¿Qué implica la audacia como característica ofensiva?",
+      "respuesta": "Asumir riesgos calculados con decisión, liderar desde el frente y mantener la agresividad."
+    },
+    {
+      "pregunta": "¿Cómo se manifiesta la flexibilidad en una ofensiva táctica?",
+      "respuesta": "Adaptarse a situaciones imprevistas y explotar oportunidades sin perder la iniciativa."
+    },
+    {
+      "pregunta": "Mencione dos fundamentos básicos de la ofensiva relacionados con el conocimiento del enemigo.",
+      "respuesta": "Establecer y mantener el contacto, desarrollar la situación del enemigo."
+    },
+    {
+      "pregunta": "¿Qué papel juega el fuego en los fundamentos de la ofensiva?",
+      "respuesta": "Se debe integrar adecuadamente con la maniobra para neutralizar la reacción enemiga y permitir el avance."
+    },
+    {
+      "pregunta": "Explique el significado de mantener el ímpetu del ataque.",
+      "respuesta": "Continuar el avance sin pausas innecesarias para evitar que el enemigo se reorganice o resista."
+    },
+    {
+      "pregunta": "¿Cuáles son los cuatro tipos doctrinarios de acciones tácticas ofensivas?",
+      "respuesta": "Movimiento para establecer contacto, ataque, explotación y persecución."
+    },
+    {
+      "pregunta": "¿Qué objetivo tiene el movimiento para establecer contacto?",
+      "respuesta": "Ubicar o restablecer contacto con el enemigo en el terreno para iniciar otra acción ofensiva."
+    },
+    {
+      "pregunta": "Mencione las tres técnicas del movimiento para establecer contacto.",
+      "respuesta": "Marcha administrativa, marcha táctica y marcha de aproximación."
+    },
+    {
+      "pregunta": "¿Cuándo se utiliza el combate de encuentro dentro de una ofensiva?",
+      "respuesta": "Cuando se encuentra al enemigo de manera sorpresiva con información limitada durante un movimiento ofensivo."
+    },
+    {
+      "pregunta": "¿Qué distingue al reconocimiento ofensivo o en fuerza de otras acciones?",
+      "respuesta": "Es ejecutado con gran fuerza para obtener información del enemigo mediante combate limitado."
+    },
+    {
+      "pregunta": "¿Qué misión cumple el ataque dentro de la secuencia ofensiva?",
+      "respuesta": "Destruir o capturar fuerzas enemigas, tomar y asegurar terreno."
+    },
+    {
+      "pregunta": "Diferencie entre ataque improvisado y ataque coordinado.",
+      "respuesta": "El primero se ejecuta con mínima preparación; el segundo se realiza tras planificación, reconocimiento y evaluación de la situación."
+    },
+    {
+      "pregunta": "¿Qué es la explotación dentro de una operación ofensiva?",
+      "respuesta": "Es la continuación de un ataque exitoso para impedir que el enemigo se reorganice o repliegue."
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad de la persecución?",
+      "respuesta": "Destruir completamente a una fuerza enemiga en retirada."
+    },
+    {
+      "pregunta": "Mencione al menos dos métodos de persecución.",
+      "respuesta": "Presión directa y presión directa combinada con envolvimiento."
+    },
+    {
+      "pregunta": "¿Qué busca la forma de maniobra ofensiva conocida como penetración?",
+      "respuesta": "Dividir al enemigo para destruirlo por partes, atravesando su posición defensiva."
+    },
+    {
+      "pregunta": "¿Qué condiciones favorecen la adopción de una penetración?",
+      "respuesta": "Flancos cubiertos, tiempo disponible, frente sobreextendido, apoyo de fuegos y superioridad de combate."
+    },
+    {
+      "pregunta": "¿Cuáles son las tres fases de la penetración?",
+      "respuesta": "Ruptura inicial, ampliación de la brecha y conquista de los objetivos en profundidad."
+    },
+ 
+        {
+          "pregunta": "¿Qué es el envolvimiento como forma de maniobra ofensiva?",
+          "respuesta": "Es una maniobra en la que la fuerza principal rodea las posiciones enemigas para atacar por los flancos o la retaguardia, obligando al enemigo a combatir en múltiples direcciones."
+        },
+        {
+          "pregunta": "¿Cuáles son las condiciones doctrinarias para emplear el envolvimiento?",
+          "respuesta": "Existencia de un flanco descubierto o débilmente defendido, adecuada movilidad, suficiente poder de combate y disponibilidad de un área de acción que permita el movimiento."
+        },
+        {
+          "pregunta": "¿Qué variantes existen del envolvimiento?",
+          "respuesta": "El doble envolvimiento y el rodeo."
+        },
+        {
+          "pregunta": "¿En qué consiste el doble envolvimiento?",
+          "respuesta": "Es ejecutado por dos fuerzas envolventes simultáneas, una por cada flanco, mientras una tercera fuerza fija al enemigo frontalmente."
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre el rodeo y el envolvimiento clásico?",
+          "respuesta": "El rodeo busca objetivos más profundos en la retaguardia sin enfrentamiento decisivo, mientras el envolvimiento busca destruir o neutralizar al enemigo."
+        },
+        {
+          "pregunta": "¿Qué es un ataque frontal y cuándo se recomienda su uso?",
+          "respuesta": "Es el ataque directamente sobre el frente enemigo; se recomienda contra fuerzas débiles, desorganizadas o como acción de fijación o engaño."
+        },
+        {
+          "pregunta": "¿En qué casos puede el ataque frontal ser útil tácticamente?",
+          "respuesta": "Durante una explotación, persecución, como esfuerzo secundario o cuando se necesita fijar al enemigo para facilitar otra maniobra."
+        },
+        {
+          "pregunta": "¿Qué es la infiltración como forma de maniobra ofensiva?",
+          "respuesta": "Es el movimiento encubierto de fuerzas a través de brechas en el dispositivo enemigo para alcanzar objetivos sensibles sin entrar en combate decisivo."
+        },
+        {
+          "pregunta": "¿Qué condiciones favorecen una infiltración exitosa?",
+          "respuesta": "Terreno favorable al encubrimiento, debilidades en el dispositivo enemigo, rutas bien seleccionadas, medidas de engaño, armamento de asalto y medios de comunicación apropiados."
+        },
+        {
+          "pregunta": "¿Cuáles son los objetivos tácticos asignables a una fuerza infiltrante?",
+          "respuesta": "Conquistar terreno crítico, destruir medios de apoyo de fuego, obtener información, hostigar e interrumpir comunicaciones y logística enemiga."
+        },
+        {
+          "pregunta": "¿Qué debe evitar una unidad infiltrante durante su ejecución?",
+          "respuesta": "Comprometerse en combate decisivo o quedarse retenida en posiciones no claves; debe evitar el contacto prolongado con el enemigo."
+        },
+        {
+          "pregunta": "¿Qué es la reorganización en el marco de una acción ofensiva?",
+          "respuesta": "Es el reajuste administrativo y logístico posterior a la conquista del objetivo, incluyendo reemplazo de personal, evacuación de heridos y reabastecimiento."
+        },
+        {
+          "pregunta": "¿Por qué la reorganización debe ser rápida y continua?",
+          "respuesta": "Para mantener la eficiencia combativa y evitar que el enemigo aproveche la pausa para reorganizarse o contraatacar."
+        },
+        {
+          "pregunta": "¿Qué es la consolidación tras una ofensiva exitosa?",
+          "respuesta": "Es el conjunto de medidas tácticas destinadas a asegurar el objetivo conquistado, incluyendo posicionamiento de tropas, fuegos, elementos de seguridad y preparación para el contraataque."
+        },
+        {
+          "pregunta": "¿Cuál es la función principal del esfuerzo secundario en un ataque coordinado?",
+          "respuesta": "Apoyar al esfuerzo principal mediante acciones como fijar al enemigo, engañarlo, impedir su refuerzo o inducir errores tácticos."
+        },
+        {
+          "pregunta": "¿Qué misiones puede cumplir una reserva durante un ataque?",
+          "respuesta": "Atacar la retaguardia enemiga, asumir la misión del escalón de ataque, rechazar contraataques o proteger los flancos."
+        },
+        {
+          "pregunta": "¿Qué medidas de coordinación y control deben establecerse para ejecutar un ataque?",
+          "respuesta": "Línea de partida, puntos de control, rutas, áreas de reunión, dirección de ataque, límites, magnitud de unidades, posiciones de ataque, zona de acción, objetivos, entre otros."
+        },
+        {
+          "pregunta": "¿Qué es el grupo fecha-hora en la coordinación ofensiva?",
+          "respuesta": "Es la indicación específica del momento en que debe iniciarse una fase o acción del ataque, utilizada para sincronizar el esfuerzo."
+        },
+        {
+          "pregunta": "¿Qué es la Línea de Despliegue Probable (PLD)?",
+          "respuesta": "Es la línea donde las unidades se despliegan desde formación de marcha a formación de combate, previo al inicio del asalto."
+        },
+        {
+          "pregunta": "¿Qué significa establecer y mantener el contacto con el enemigo como fundamento ofensivo?",
+          "respuesta": "Es la acción de localizar al enemigo, no perder su rastro y sostener presión continua para impedir su reorganización o retirada ordenada."
+        },
+        {
+          "pregunta": "¿Qué implica retener la iniciativa en una operación ofensiva?",
+          "respuesta": "Continuar actuando antes que el enemigo, anticiparse a sus decisiones y obligarlo a reaccionar, no a actuar por voluntad propia."
+        },
+        {
+          "pregunta": "¿Qué se busca con la neutralización de las capacidades de reacción enemiga?",
+          "respuesta": "Evitar que el enemigo pueda reorganizarse, contraatacar o usar sus medios con efectividad contra las fuerzas propias."
+        },
+        {
+          "pregunta": "¿Qué elementos aseguran la seguridad e integridad de la fuerza ofensiva?",
+          "respuesta": "Cobertura de flancos, reservas listas, vigilancia constante, fuego de apoyo eficaz, patrullas de seguridad y defensa antiaérea o antitanque si se requiere."
+        },
+        {
+          "pregunta": "¿Qué medidas aseguran la integración del fuego y la maniobra?",
+          "respuesta": "Coordinación previa, planificación conjunta, cronogramas de fuego, control de elevación o cese de fuegos, medidas de enlace y uso de observadores avanzados."
+        },
+        {
+          "pregunta": "¿Por qué es fundamental conocer las formas de maniobra al planificar una ofensiva?",
+          "respuesta": "Porque cada forma responde a condiciones distintas del enemigo, terreno y misión, y su correcta aplicación aumenta la probabilidad de éxito."
+        },      
+
+
+            {
+              "pregunta": "¿Qué condiciones hacen recomendable emplear un ataque coordinado en lugar de uno improvisado?",
+              "respuesta": "Disponibilidad de tiempo para preparar el ataque, posibilidad de realizar reconocimientos, existencia de fuego de apoyo planificado y la necesidad de asegurar el objetivo con precisión."
+            },
+            {
+              "pregunta": "¿Cuál es la diferencia clave en la preparación entre un ataque improvisado y un ataque coordinado?",
+              "respuesta": "El ataque improvisado se lanza con mínima preparación aprovechando la oportunidad, mientras que el ataque coordinado implica planificación detallada, sincronización de fuegos y maniobra, y reconocimientos previos."
+            },
+            {
+              "pregunta": "¿Qué tipo de unidad puede ejecutar un doble envolvimiento de forma efectiva?",
+              "respuesta": "Una brigada reforzada o una unidad de mayor entidad, ya que requiere gran potencia de combate y movilidad."
+            },
+            {
+              "pregunta": "¿Por qué no se recomienda el uso de fuegos de preparación en un envolvimiento?",
+              "respuesta": "Porque puede alertar al enemigo sobre la maniobra, comprometiendo la sorpresa necesaria para su éxito."
+            },
+            {
+              "pregunta": "¿Qué aspecto logístico debe ser garantizado en una operación ofensiva para sostener el ímpetu del ataque?",
+              "respuesta": "Un sistema de abastecimiento rápido y continuo, que incluya munición, agua, combustible, evacuación de heridos y reemplazos."
+            },
+            {
+              "pregunta": "¿Cuál es el principal peligro de una mala ejecución de la consolidación después del asalto?",
+              "respuesta": "Exposición a un contraataque enemigo sin preparación, pérdida del objetivo conquistado o desorganización de las fuerzas propias."
+            },
+            {
+              "pregunta": "¿Qué función cumple el reconocimiento dentro de la planificación ofensiva a nivel compañía?",
+              "respuesta": "Permite conocer el terreno, ubicar obstáculos, rutas de avance, posiciones enemigas y condiciones tácticas para organizar el asalto."
+            },
+            {
+              "pregunta": "¿Cuál es el efecto táctico del fuego sorpresivo en un ataque improvisado?",
+              "respuesta": "Paraliza temporalmente al enemigo, rompe su cohesión y facilita el asalto con mínima resistencia."
+            },
+            {
+              "pregunta": "¿Qué criterio debe cumplir una zona de acción asignada al esfuerzo principal?",
+              "respuesta": "Debe ser más estrecha, con la dirección más favorable, menor resistencia esperada y mayor prioridad logística y de fuegos."
+            },
+            {
+              "pregunta": "¿Qué relación tiene el ataque frontal con las otras formas de maniobra?",
+              "respuesta": "Puede utilizarse como esfuerzo secundario para fijar al enemigo mientras se realiza una maniobra principal como envolvimiento o penetración."
+            },
+            {
+              "pregunta": "¿Qué riesgos tiene una fuerza que ejecuta una infiltración sin coordinación adecuada?",
+              "respuesta": "Puede quedar aislada, ser destruida en detalle, comprometer la sorpresa o perder la capacidad de cumplir su misión sin apoyo."
+            },
+            {
+              "pregunta": "¿Qué significa explotación con fuerzas empeñadas?",
+              "respuesta": "Continuar la ofensiva usando las mismas unidades que realizaron el ataque inicial sin esperar refuerzos o relevos."
+            },
+            {
+              "pregunta": "¿Cuál es el propósito de emplear la reserva en una fase de explotación?",
+              "respuesta": "Aprovechar el éxito inicial para romper completamente la organización enemiga, neutralizar contraataques o ampliar la ventaja táctica."
+            },
+            {
+              "pregunta": "¿Qué rol cumple la velocidad en una persecución efectiva?",
+              "respuesta": "Permite alcanzar y destruir al enemigo antes de que logre reorganizarse, cruzar obstáculos o reforzarse."
+            },
+            {
+              "pregunta": "¿Qué condiciones deben cumplirse para lanzar una persecución?",
+              "respuesta": "El enemigo debe estar en retirada desorganizada, sin capacidad de resistencia efectiva, y debe haber autorización del escalón superior."
+            },
+            {
+              "pregunta": "¿Qué ventaja ofrece la presión directa en combinación con una fuerza de envolvimiento durante la persecución?",
+              "respuesta": "Presiona al enemigo por el frente mientras es interceptado por el flanco o retaguardia, impidiéndole escapar o reorganizarse."
+            },
+            {
+              "pregunta": "¿Qué acción debe ejecutar una compañía después de conquistar un objetivo ofensivo?",
+              "respuesta": "Iniciar inmediatamente medidas de consolidación: posicionar tropas, armas, fuegos de cobertura y establecer seguridad perimetral."
+            },
+            {
+              "pregunta": "¿Qué implica la 'preparación para el contraataque' durante la consolidación?",
+              "respuesta": "Establecer sectores de fuego, ubicar reservas, mantener vigilancia activa y alistar medios para responder a una contraofensiva enemiga."
+            },
+            {
+              "pregunta": "¿Por qué es importante evitar el control exagerado en una operación ofensiva?",
+              "respuesta": "Porque limita la iniciativa de los subordinados, genera lentitud en la acción y reduce la capacidad de adaptación al cambio."
+            },
+            {
+              "pregunta": "¿Qué valor táctico tiene asignar objetivos decisivos a las fuerzas infiltrantes?",
+              "respuesta": "Permite golpear centros de gravedad enemigos, como puestos de mando, artillería, comunicaciones o logística, debilitando su capacidad general."
+            },
+            {
+              "pregunta": "¿Qué debe hacer una unidad infiltrante que no logra alcanzar su objetivo?",
+              "respuesta": "Replegarse ordenadamente a las áreas de reunión sin comprometer al resto de la operación ni exponerse al enemigo."
+            },
+            {
+              "pregunta": "¿Qué aspectos se deben revisar durante la fase de planificación ofensiva a nivel compañía?",
+              "respuesta": "Control de fuego, abastecimientos, coordinación con unidades adyacentes, evacuación de heridos, técnicas de movimiento y ubicación de comandantes."
+            },
+            {
+              "pregunta": "¿Por qué se considera a la ofensiva como la forma decisiva de la guerra?",
+              "respuesta": "Porque permite imponer la voluntad sobre el enemigo, destruir sus fuerzas, tomar la iniciativa y alcanzar el objetivo político o militar deseado."
+            },
+            {
+              "pregunta": "¿Qué diferencia hay entre tareas ofensivas principales y complementarias?",
+              "respuesta": "Las principales buscan destruir o vencer al enemigo directamente, mientras las complementarias apoyan ese objetivo mediante seguridad, engaño o fijación."
+            },
+            {
+              "pregunta": "¿Qué ventaja ofrece el asalto bien coordinado en un ataque coordinado?",
+              "respuesta": "Permite destruir rápidamente la posición enemiga con mínimo esfuerzo y bajas, aprovechando el efecto de fuegos previos y el ímpetu de la maniobra."
+            }
+          ]
+          
