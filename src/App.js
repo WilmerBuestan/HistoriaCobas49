@@ -7,7 +7,7 @@ const materias = [
  // "GUERRA DE VIETNAM",
 //  "GUERRA DEL CENEPA",
 //  "GUERRA DEL GOLFO PÉRSICO",
-  "GUERRA DE COREA",
+  "COMNDUCCCIONN DE OPERACIONES MILITARES",
  // "GUERRA POR LAS MALVINAS",
 //  "DERECHO INTERNACIONAL HUMANITARIO",
   "Personal",
@@ -47,6 +47,8 @@ export default function App() {
         ? "personal.json"
         : materiaSeleccionada.toLowerCase().includes("operaciones")
         ? "operaciones.json"
+        : materiaSeleccionada.toLowerCase().includes("conduccion")
+        ? "conduccion.json"
         : materiaSeleccionada.toLowerCase().includes("inteligencia")
         ? "inteligencia.json"
         : materiaSeleccionada.toLowerCase().includes("humano")
