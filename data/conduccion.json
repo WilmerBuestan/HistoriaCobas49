@@ -1,0 +1,725 @@
+[
+    {
+      "p": "¿Qué busca la acción defensiva?",
+      "r": "Impedir, resistir, destruir"
+    },
+    {
+      "p": "¿Cuál es el propósito de impedir un ataque enemigo?",
+      "r": "Desorganizarlo antes de su desencadenamiento"
+    },
+    {
+      "p": "¿Qué significa resistir un ataque enemigo?",
+      "r": "Detenerlo o bloquearlo al frente de la LPR"
+    },
+    {
+      "p": "¿Qué significa destruir un ataque enemigo?",
+      "r": "Canalizar al enemigo para atacarlo ofensivamente"
+    },
+    {
+      "p": "¿Cuáles son las finalidades de la defensa?",
+      "r": "Ganar tiempo, canalizar al enemigo, crear condiciones ofensivas"
+    },
+    {
+      "p": "¿Qué finalidad busca negar al enemigo un área?",
+      "r": "Defensiva"
+    },
+    {
+      "p": "¿Qué característica se basa en prevenir los efectos del enemigo?",
+      "r": "Preparación de las posiciones"
+    },
+    {
+      "p": "¿Qué característica implica vigilancia y medios de protección?",
+      "r": "Seguridad"
+    },
+    {
+      "p": "¿Qué característica busca interrumpir la acción del enemigo?",
+      "r": "Desorganización del enemigo"
+    },
+    {
+      "p": "¿Qué característica reúne medios en sector y momento específico?",
+      "r": "Concentración de efectos"
+    },
+    {
+      "p": "¿Qué característica permite adaptarse a variaciones del combate?",
+      "r": "Flexibilidad"
+    },
+    {
+      "p": "¿Cuál es el fundamento que considera avenidas de aproximación?",
+      "r": "Uso apropiado del terreno"
+    },
+    {
+      "p": "¿Qué fundamento busca evitar la sorpresa?",
+      "r": "Seguridad"
+    },
+    {
+      "p": "¿Qué fundamento se basa en fuegos laterales y en profundidad?",
+      "r": "Apoyo mutuo"
+    },
+    {
+      "p": "¿Qué fundamento implica posiciones sucesivas para detener al enemigo?",
+      "r": "Defensa en profundidad"
+    },
+    {
+      "p": "¿Qué fundamento implica prever ataques desde 360°?",
+      "r": "Defensa en todas las direcciones"
+    },
+    {
+      "p": "¿Qué fundamento incluye patrullaje agresivo y contraataques?",
+      "r": "Empleo máximo de acciones ofensivas"
+    },
+    {
+      "p": "¿Qué fundamento incluye fuegos, obstáculos y OPSIC?",
+      "r": "Integración y coordinación de planes"
+    },
+    {
+      "p": "¿Qué tipo de fuego busca neutralizar medios enemigos en el asalto?",
+      "r": "Fuegos protectivos finales"
+    },
+    {
+      "p": "¿Qué fuego busca impedir que el enemigo despliegue su ataque?",
+      "r": "Fuegos de largo alcance"
+    },
+    {
+      "p": "¿Qué fuego se enfoca en dificultar el montaje del ataque?",
+      "r": "Fuegos defensivos cercanos"
+    },
+    {
+      "p": "¿Qué fuego se aplica dentro del área defensiva?",
+      "r": "Fuegos dentro de la posición"
+    },
+    {
+      "p": "¿Qué grado de resistencia se aplica en terreno clave?",
+      "r": "Defender"
+    },
+    {
+      "p": "¿Qué grado de resistencia se aplica en terreno restringido?",
+      "r": "Retardar"
+    },
+    {
+      "p": "¿Qué grado de resistencia se aplica en terreno sin valor táctico?",
+      "r": "Vigilar"
+    },
+    {
+      "p": "¿Qué preparación requiere más de 15 días?",
+      "r": "Fuertemente organizada"
+    },
+    {
+      "p": "¿Qué preparación se da entre 5 a 15 días?",
+      "r": "Organizada"
+    },
+    {
+      "p": "¿Qué preparación se da entre 1 a 4 días?",
+      "r": "Sumariamente organizada"
+    },
+    {
+      "p": "¿Qué preparación se da con menos de un día?",
+      "r": "Ligeramente organizada"
+    },
+    {
+      "p": "¿Cuáles son las acciones dinámicas de la defensa?",
+      "r": "Ataque de desarticulación y contraataque"
+    },
+    {
+      "p": "¿Quién ejecuta el ataque de desarticulación?",
+      "r": "El defensor antes del ataque enemigo"
+    },
+    {
+      "p": "¿Qué acción ofensiva se lanza tras una penetración?",
+      "r": "Contraataque"
+    },
+    {
+      "p": "¿Desde dónde se ejecuta un contraataque?",
+      "r": "Desde la reserva"
+    },
+    
+
+        {
+          "p": "¿Qué escalones conforman la defensa en posición?",
+          "r": "Seguridad, resistencia y reserva"
+        },
+        {
+          "p": "¿Qué escalones conforman la defensa de sector?",
+          "r": "Seguridad, defensa avanzada y retaguardia"
+        },
+        {
+          "p": "¿Qué línea se traza para planificar la defensa?",
+          "r": "Línea Principal de Resistencia (LPR)"
+        },
+        {
+          "p": "¿Quién materializa la verdadera LPR?",
+          "r": "Los pelotones en el terreno"
+        },
+        {
+          "p": "¿Cuál es el frente defensivo de una compañía?",
+          "r": "600 a 1200 metros"
+        },
+        {
+          "p": "¿Cuál es la profundidad entre LPR y PAC?",
+          "r": "1000 a 2400 metros"
+        },
+        {
+          "p": "¿Cuál es la profundidad entre LPR y PAG?",
+          "r": "6 a 12 km"
+        },
+        {
+          "p": "¿Qué diferencia a una brecha de un intervalo?",
+          "r": "La brecha no puede ser cubierta con armas pequeñas"
+        },
+        {
+          "p": "¿Quién organiza los PAC cuando la brigada actúa independiente?",
+          "r": "El batallón"
+        },
+        {
+          "p": "¿Qué misiones cumplen los PAC?",
+          "r": "Alertar, retardar, negar observación y desorganizar"
+        },
+        {
+          "p": "¿A qué distancia se ubican los PAC de la LPR?",
+          "r": "1000 a 2400 metros"
+        },
+        {
+          "p": "¿A qué distancia se ubican los PAG de la LPR?",
+          "r": "6 a 12 km"
+        },
+        {
+          "p": "¿Quién organiza los PAG cuando la brigada actúa encuadrada?",
+          "r": "La división"
+        },
+        {
+          "p": "¿Qué misión principal tienen los PAG?",
+          "r": "Retardar al enemigo delante de la LPR"
+        },
+        {
+          "p": "¿Qué unidad constituye la FC en una división?",
+          "r": "Una brigada"
+        },
+        {
+          "p": "¿Qué misión tiene la FC?",
+          "r": "Retardar al enemigo mediante acción retardatriz"
+        },
+        {
+          "p": "¿Qué técnicas de fuego usa el escalón de resistencia para detener?",
+          "r": "Fuego máximo o fuego efectivo según la situación"
+        },
+        {
+          "p": "¿Qué técnica usan ametralladoras para rechazar al enemigo?",
+          "r": "Fuegos rasantes entrecruzados"
+        },
+        {
+          "p": "¿Qué acción ejecuta el escalón de resistencia para destruir?",
+          "r": "Fuego y maniobra; fuego y movimiento"
+        },
+        {
+          "p": "¿Qué tareas cumple el escalón de reserva?",
+          "r": "Bloquear, contraatacar, patrullar, relevar, reforzar"
+        },
+        {
+          "p": "¿Qué tipo de defensa ocurre si una fuerza ayuda al repliegue sin tomar responsabilidad?",
+          "r": "Ayudar"
+        },
+        {
+          "p": "¿Qué implica apoyar el repliegue?",
+          "r": "Transferencia de responsabilidad"
+        },
+        {
+          "p": "¿Cuándo se usa relevo en posición?",
+          "r": "Para continuar defensa o ataque"
+        },
+        {
+          "p": "¿Qué método de relevo se usa para lanzar un ataque a través de otra unidad?",
+          "r": "Sobrepasamiento"
+        },
+        {
+          "p": "¿Qué acción se emplea si el contacto con el enemigo es remoto?",
+          "r": "Marcha administrativa"
+        },
+        {
+          "p": "¿Qué acción se usa cuando el contacto con el enemigo es probable?",
+          "r": "Marcha táctica"
+        },
+        {
+          "p": "¿Qué acción se aplica si el contacto con el enemigo es inminente?",
+          "r": "Marcha de aproximación"
+        },
+        {
+          "p": "¿Cuál es el propósito del movimiento para establecer contacto?",
+          "r": "Posicionarse con ventaja antes del combate"
+        },
+        {
+          "p": "¿Qué tipo de combate se da al encontrar inesperadamente al enemigo?",
+          "r": "Combate de encuentro"
+        },
+        {
+          "p": "¿Cuál es el propósito del combate de encuentro?",
+          "r": "Desarrollar la situación y atacar si es posible"
+        },
+        {
+          "p": "¿Qué acción ofensiva busca información mediante fuego y contacto?",
+          "r": "Reconocimiento ofensivo"
+        },
+        {
+          "p": "¿Qué se busca con una incursión?",
+          "r": "Confundir al enemigo sin retener terreno"
+        },
+        
+    
+            {
+              "p": "¿Qué acción ofensiva busca vencer la voluntad del enemigo?",
+              "r": "Ofensiva"
+            },
+            {
+              "p": "¿Cuál es la finalidad principal de la ofensiva?",
+              "r": "Vencer la voluntad del enemigo"
+            },
+            {
+              "p": "¿Qué busca la ofensiva además de destruir al enemigo?",
+              "r": "Privarlo de recursos, obtener información, desorganizarlo"
+            },
+            {
+              "p": "¿Qué característica ofensiva busca actuar donde el enemigo no lo espera?",
+              "r": "Sorpresa"
+            },
+            {
+              "p": "¿Qué característica ofensiva se logra atacando en terreno difícil o AA secundaria?",
+              "r": "Sorpresa"
+            },
+            {
+              "p": "¿Qué característica ofensiva reúne fuerzas y fuegos para destruir al enemigo?",
+              "r": "Concentración"
+            },
+            {
+              "p": "¿Qué característica ofensiva busca mantener al enemigo fuera de equilibrio?",
+              "r": "Rapidez"
+            },
+            {
+              "p": "¿Qué permite responder a situaciones imprevistas?",
+              "r": "Flexibilidad"
+            },
+            {
+              "p": "¿Qué valor caracteriza al comandante en el combate ofensivo?",
+              "r": "Audacia"
+            },
+            {
+              "p": "¿Qué fundamento ofensivo implica mantener contacto constante?",
+              "r": "Establecer y mantener el contacto"
+            },
+            {
+              "p": "¿Qué fundamento ofensivo permite conocer al enemigo?",
+              "r": "Desarrollar la situación"
+            },
+            {
+              "p": "¿Qué fundamento se basa en aprovechar debilidades enemigas?",
+              "r": "Explotar debilidades"
+            },
+            {
+              "p": "¿Qué fundamento busca dominar áreas de importancia?",
+              "r": "Ocupar o controlar terreno clave"
+            },
+            {
+              "p": "¿Qué fundamento ofensivo implica tomar la iniciativa y no perderla?",
+              "r": "Retener la iniciativa"
+            },
+            {
+              "p": "¿Qué fundamento implica golpear al enemigo sin darle tiempo de reaccionar?",
+              "r": "Neutralizar su capacidad de reacción"
+            },
+            {
+              "p": "¿Qué fundamento une fuego y movimiento?",
+              "r": "Integración del fuego y la maniobra"
+            },
+            {
+              "p": "¿Qué fundamento busca que el ataque nunca pierda fuerza?",
+              "r": "Mantener el ímpetu del ataque"
+            },
+            {
+              "p": "¿Qué fundamento implica proteger la unidad en todo momento?",
+              "r": "Seguridad e integridad de la fuerza"
+            },
+            {
+              "p": "¿Qué fundamento se basa en aplicar fuerza decisiva en el punto crítico?",
+              "r": "Concentrar potencia de combate"
+            },
+            {
+              "p": "¿Cuáles son las formas de maniobra ofensiva?",
+              "r": "Penetración, envolvimiento, ataque frontal, infiltración"
+            },
+            {
+              "p": "¿Qué maniobra rompe la línea enemiga en un punto débil?",
+              "r": "Penetración"
+            },
+            {
+              "p": "¿Qué maniobra rodea y ataca la retaguardia del enemigo?",
+              "r": "Envolvimiento"
+            },
+            {
+              "p": "¿Qué variante del envolvimiento busca atacar un objetivo en profundidad?",
+              "r": "Rodeo"
+            },
+            {
+              "p": "¿Qué maniobra golpea directamente el frente enemigo?",
+              "r": "Ataque frontal"
+            },
+            {
+              "p": "¿Qué maniobra infiltra unidades completas en el dispositivo enemigo?",
+              "r": "Infiltración"
+            },
+            {
+              "p": "¿Cuál es la primera fase de la maniobra de penetración?",
+              "r": "Ruptura inicial"
+            },
+            {
+              "p": "¿Cuál es la última fase de la penetración?",
+              "r": "Conquista de objetivos en profundidad"
+            },
+            {
+              "p": "¿Qué acción ofensiva sigue al éxito de un ataque?",
+              "r": "Explotación del éxito"
+            },
+            {
+              "p": "¿Qué fase sigue a la explotación del éxito?",
+              "r": "Persecución"
+            },
+            {
+              "p": "¿Qué método de persecución implica presión constante?",
+              "r": "Presión directa"
+            },
+            {
+              "p": "¿Qué método combina presión con envolvimiento?",
+              "r": "Presión directa con envolvimiento"
+            },
+            {
+              "p": "¿Qué acción ofensiva implica atacar sin mucha preparación?",
+              "r": "Ataque improvisado"
+            },
+            {
+              "p": "¿Qué tipo de ataque se planifica y coordina con todos los medios?",
+              "r": "Ataque coordinado"
+            },
+  {
+    "p": "¿Qué busca la acción retrógrada?",
+    "r": "Preservar la fuerza y permitir acciones ofensivas futuras"
+  },
+  {
+    "p": "¿Cuáles son las finalidades de una acción retrógrada?",
+    "r": "Ganar tiempo, evitar combate desfavorable, maniobrar"
+  },
+  {
+    "p": "¿Qué fundamento retrógrado usa obstáculos y fuegos para retroceder?",
+    "r": "Uso del terreno y condiciones meteorológicas"
+  },
+  {
+    "p": "¿Qué fundamento retrógrado garantiza libertad para decidir maniobras?",
+    "r": "Libertad de acción"
+  },
+  {
+    "p": "¿Qué fundamento retrógrado combina órdenes detalladas y libertad subordinada?",
+    "r": "Planificación centralizada y ejecución descentralizada"
+  },
+  {
+    "p": "¿Qué fundamento destaca el control psicológico del combate retrógrado?",
+    "r": "Mantenimiento de la moral"
+  },
+  {
+    "p": "¿Qué característica retrógrada implica dirección firme y control exacto?",
+    "r": "Mando enérgico y control riguroso"
+  },
+  {
+    "p": "¿Qué acción retrógrada requiere autorización superior?",
+    "r": "Toda acción retrógrada"
+  },
+  {
+    "p": "¿Qué acción retrógrada es un movimiento sin presión enemiga?",
+    "r": "Retirada"
+  },
+  {
+    "p": "¿Qué acción retrógrada se ejecuta bajo presión del enemigo?",
+    "r": "Repliegue involuntario"
+  },
+  {
+    "p": "¿Qué tipo de retardo usa varias posiciones en secuencia con la misma fuerza?",
+    "r": "Retardo en posiciones sucesivas"
+  },
+  {
+    "p": "¿Qué tipo de retardo usa fuerzas en dos posiciones simultáneas?",
+    "r": "Retardo en posiciones alternas"
+  },
+  {
+    "p": "¿Qué se combina en el método mixto de acción retardatriz?",
+    "r": "Posiciones sucesivas y alternas"
+  },
+  {
+    "p": "¿Qué acción retrógrada destruye medios del enemigo mientras se retrocede?",
+    "r": "Acción retardatriz"
+  },
+  {
+    "p": "¿Qué acción retrógrada ejecuta una unidad fuera de contacto enemigo?",
+    "r": "Retirada"
+  },
+  {
+    "p": "¿Qué acción complementaria busca información del terreno y enemigo?",
+    "r": "Reconocimiento"
+  },
+  {
+    "p": "¿Qué tipo de reconocimiento se usa cuando se conoce la ubicación enemiga?",
+    "r": "Reconocimiento de ruta"
+  },
+  {
+    "p": "¿Qué tipo de reconocimiento se usa si no se conoce al enemigo?",
+    "r": "Reconocimiento de zona"
+  },
+  {
+    "p": "¿Qué tipo de reconocimiento es más detallado que el de área?",
+    "r": "Reconocimiento de zona"
+  },
+  {
+    "p": "¿Qué tipo de reconocimiento no busca conquistar terreno?",
+    "r": "Reconocimiento ofensivo o en fuerza"
+  },
+  {
+    "p": "¿Qué acción complementaria protege del sabotaje y la sorpresa?",
+    "r": "Seguridad"
+  },
+  {
+    "p": "¿Qué fuerza de seguridad actúa independiente y alejada?",
+    "r": "Fuerza de cobertura"
+  },
+  {
+    "p": "¿Qué fuerza de seguridad actúa cerca y protege en movimiento?",
+    "r": "Fuerza de protección"
+  },
+  {
+    "p": "¿Qué acción de seguridad emplea observación y escucha?",
+    "r": "Vigilancia"
+  },
+  {
+    "p": "¿Qué acción ocupa brechas entre fuerzas amigas?",
+    "r": "Enlace táctico"
+  },
+  {
+    "p": "¿Qué acción de relevo reemplaza completamente a otra unidad?",
+    "r": "Relevo en posición"
+  },
+  {
+    "p": "¿Qué relevo ocurre cuando una unidad ataca a través de otra?",
+    "r": "Sobrepasamiento"
+  },
+  {
+    "p": "¿Qué tipo de engaño simula un ataque con objetivo limitado?",
+    "r": "Finta"
+  },
+  {
+    "p": "¿Qué tipo de engaño emplea humo, sonido o señuelos?",
+    "r": "Demostración"
+  },
+  {
+    "p": "¿Qué tipo de engaño usa ardid, información falsa o incursiones?",
+    "r": "Engaño"
+  },
+  {
+    "p": "¿Qué fuerza ayuda a ejecutar el relevo cuando hay distancia o dificultad?",
+    "r": "Reserva"
+  },
+  {
+    "p": "¿Qué tipo de tareas puede cumplir la reserva?",
+    "r": "Bloquear, contraatacar, relevar, patrullar"
+  },
+  {
+    "p": "¿Qué significa asumir la misión de una unidad desorganizada?",
+    "r": "Misión de la reserva"
+  },
+  
+  
+    {
+      "p": "¿Cuáles son los tipos de reserva?",
+      "r": "Centralizada, fraccionada, articulada"
+    },
+    {
+      "p": "¿Qué tipo de reserva proporciona mayor flexibilidad?",
+      "r": "Fraccionada"
+    },
+    {
+      "p": "¿Qué tipo de reserva se ubica en un solo punto y es más potente?",
+      "r": "Centralizada"
+    },
+    {
+      "p": "¿Qué tipo de reserva se distribuye por escalones?",
+      "r": "Articulada"
+    },
+    {
+      "p": "¿Qué esfuerzos componen el ataque coordinado?",
+      "r": "Principal, secundario, reserva"
+    },
+    {
+      "p": "¿Cuál es el esfuerzo que se dirige al objetivo final?",
+      "r": "Esfuerzo principal"
+    },
+    {
+      "p": "¿Qué misiones cumple el esfuerzo secundario?",
+      "r": "Fijar, engañar, evitar refuerzos enemigos"
+    },
+    {
+      "p": "¿Qué es la misión de la reserva?",
+      "r": "Explotar el éxito o contener un fracaso"
+    },
+    {
+      "p": "¿Qué formación se usa cuando se quiere máxima potencia de fuego al frente?",
+      "r": "Línea"
+    },
+    {
+      "p": "¿Qué formación proporciona seguridad y profundidad?",
+      "r": "Columna"
+    },
+    {
+      "p": "¿Qué formación ofrece seguridad hacia un flanco?",
+      "r": "Escalonada"
+    },
+    {
+      "p": "¿Qué medida de control fija la dirección exacta de ataque?",
+      "r": "Dirección de ataque"
+    },
+    {
+      "p": "¿Qué medida de control indica el movimiento general?",
+      "r": "Eje de avance"
+    },
+    {
+      "p": "¿Qué medida de control se refiere a la última posición antes de cruzar la LP?",
+      "r": "Posición de ataque"
+    },
+    {
+      "p": "¿Cuál es la diferencia entre reorganización y consolidación?",
+      "r": "La primera es administrativa, la segunda es táctica"
+    },
+    {
+      "p": "¿Qué indica que ha terminado la explotación del éxito?",
+      "r": "Cuando el enemigo se desintegra o se organiza de nuevo"
+    },
+    {
+      "p": "¿Qué condición inicia la persecución?",
+      "r": "Autorización del escalón superior"
+    },
+    {
+      "p": "¿Qué define una persecución?",
+      "r": "Destruir al enemigo que se retira"
+    },
+    {
+      "p": "¿Qué método de persecución combina movilidad y cierre de ruta?",
+      "r": "Presión directa con envolvimiento"
+    },
+    {
+      "p": "¿Cuál es la misión principal de la fuerza de cobertura?",
+      "r": "Retardar al enemigo"
+    },
+    {
+      "p": "¿Qué distancia se considera entre la LPR y los PAC?",
+      "r": "1000 a 2400 metros"
+    },
+    {
+      "p": "¿Qué distancia se considera entre la LPR y los PAG?",
+      "r": "6 a 12 km"
+    },
+    {
+      "p": "¿Qué es una brecha?",
+      "r": "Espacio entre unidades que no puede ser cubierto con armas pequeñas"
+    },
+    {
+      "p": "¿Qué es un intervalo?",
+      "r": "Espacio lateral cubierto por fuego de armas pequeñas"
+    },
+    {
+      "p": "¿Qué tipo de vigilancia usa imágenes aéreas o drones?",
+      "r": "Fotográfica"
+    },
+    {
+      "p": "¿Qué tipo de vigilancia emplea sensores y radares?",
+      "r": "Electrónica"
+    },
+    {
+      "p": "¿Qué tipo de vigilancia emplea patrullas terrestres o aéreas?",
+      "r": "Visual"
+    },
+    {
+      "p": "¿Qué se considera un DDC en un repliegue voluntario?",
+      "r": "Destacamento dejado en contacto"
+    },
+    {
+      "p": "¿Qué porcentaje de armas de apoyo debe tener un DDC?",
+      "r": "La mitad"
+    },
+    {
+      "p": "¿Cuántos momentos tácticos tiene un repliegue voluntario?",
+      "r": "Tres"
+    },
+    {
+      "p": "¿Cuándo se inicia el repliegue del DDC?",
+      "r": "A la hora prescrita o por orden"
+    },
+    {
+      "p": "¿Qué indica un periodo de retardo?",
+      "r": "Fecha y hora del inicio y fin de la acción retardatriz"
+    },
+    {
+      "p": "¿Qué unidad ejecuta un ataque frontal como apoyo o engaño?",
+      "r": "Esfuerzo secundario"
+    },
+    {
+      "p": "¿Qué maniobra requiere movilidad superior y sorpresa?",
+      "r": "Envolvimiento"
+    },
+    {
+      "p": "¿Qué maniobra requiere infiltración de unidades completas?",
+      "r": "Infiltración"
+    },
+    {
+      "p": "¿Qué diferencia al rodeo del envolvimiento?",
+      "r": "No busca destruir sino cortar retaguardia enemiga"
+    },
+    {
+      "p": "¿Qué tipo de ataque usa toda la potencia en una sola dirección?",
+      "r": "Ataque coordinado sobre una sola dirección"
+    },
+    {
+      "p": "¿Qué se busca con la penetración múltiple?",
+      "r": "Dividir al enemigo y destruirlo por partes"
+    },
+    {
+      "p": "¿Qué se debe evitar al emplear la reserva?",
+      "r": "Fragmentarla"
+    },
+    {
+      "p": "¿Qué es esencial en la conducción del contraataque?",
+      "r": "Ubicación de la penetración máxima admisible"
+    },
+    {
+      "p": "¿Qué diferencia un ataque de desarticulación de un contraataque?",
+      "r": "El primero se lanza antes del ataque enemigo"
+    },
+    {
+      "p": "¿Qué acción ejecuta una unidad que no retiene terreno tras el ataque?",
+      "r": "Incursión"
+    },
+    {
+      "p": "¿Qué tipo de fuego se lanza entre 300 y 800 metros antes del contacto?",
+      "r": "Fuegos antes de la preparación"
+    },
+    {
+      "p": "¿Qué debe hacer la reserva cuando se empeña en combate?",
+      "r": "Dar parte al superior y reorganizar una nueva"
+    },
+    {
+      "p": "¿Qué valor doctrinario guía el uso del fuego para fijar y maniobrar?",
+      "r": "Integración del fuego y la maniobra"
+    },
+    {
+      "p": "¿Qué elemento logístico es clave en las acciones retrógradas?",
+      "r": "Control del tránsito y abastecimiento"
+    },
+    {
+      "p": "¿Qué plan integra fuegos, obstáculos y defensa antiaérea?",
+      "r": "Plan de defensa integrado"
+    },
+    {
+      "p": "¿Qué documento doctrinario se basa en este resumen?",
+      "r": "Manual de Conducción Militar MFRE 3.01"
+    }
+  ]
+  
